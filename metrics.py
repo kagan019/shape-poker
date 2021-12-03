@@ -3,6 +3,7 @@ import shapepoker
 from shapepoker import ShapePoker
 import random
 import strategy
+import time
 
 
 #this is a client script for shapepoker.
@@ -88,27 +89,36 @@ def win_rate(n=1000):
 
 
 def money_v_t(game, cycles=100, sessions=None):
+	# can run for a certain number of games or a certain number of evolutionary cycles
 	mvtevolve = []
+	mvtsesh = []
 	money_had_last_play_sesh = game.pevolve.money
 	money_had_last_evolve = game.pevolve.money
 	i = 0
 	j = 0
-	while (i if sessions is None else j) < (cycles if sessions is None else sessions):
+	while (i < cycles if sessions is None else j < sessions):
 		game.play(PLAY_SESSION_LENGTH)
-		if game.pevolve.strategy.update(game.pevolve.money - money_had_last_play_sesh):
+		if game.pevolve.strategy.update(game.pevolve.money - money_had_last_play_sesh): # always True for a static strategy
 			i += 1
-		mvtevolve += [game.pevolve.money - money_had_last_evolve]
-		money_had_last_evolve = game.pevolve.money
+			mvtevolve += [game.pevolve.money - money_had_last_evolve]
+			money_had_last_evolve = game.pevolve.money
+		mvtsesh += [game.pevolve.money - money_had_last_play_sesh]
 		money_had_last_play_sesh = game.pevolve.money
+		mvtsesh += []
 		j += 1
-			
-	for i, x in enumerate(mvtevolve):
-		print(repr((i, x)))
-	print(game.pevolve.money)
+	if sessions is None:
+		for i, x in enumerate(mvtevolve):
+			print(repr((i, x)))
+	else:
+		for j, x in enumerate(mvtsesh):
+			print(repr((j,x)))
+	print("Evolving player's money:", game.pevolve.money)
 
 
 
 def rounds_by_population(game):
+	# For each learning model of the evolving strategy,
+	# display its win count.
 	for s in game.pevolve.strategy.strategies:
 		print(s.times, end=" ")
 	print()
@@ -122,7 +132,7 @@ def compare_vanilla_genetic_search_with_GMAB():
 
 	# Simulates PLAY_SESSION_LENGTH*SESSIONS_TO_PLAY rounds of Shape Poker and takes data on how much money player `pevolve` earned over time.
 	for seed in seeds:
-		print("\n\nseed", seed, "\n")	
+		print("\n\nseed", seed, "\n")
 		random.seed(seed)
 
 
@@ -173,6 +183,43 @@ def compare_vanilla_genetic_search_with_GMAB2():
 		money_v_t(gameGMAB, sessions=SESSIONS_TO_PLAY) 
 		rounds_by_population(gameGMAB)									
 
+def compare_combine_formulas(metaseed):
+	# tabulates the final scores of players evolving via each combine formula
+	# across 1000 random seeds playing one session of 100 rounds per seed
+	random.seed(metaseed) # metaseed to generate seeds
+	range_object = range(2**31-1)
+	seeds = [random.choice(range_object) for _ in range(1000)]
+	for s in seeds:
+		print("\n\nseed",seed,"\n")
+		random.seed(s)
+
+		gamelin = ShapePoker(strategy.StaticStrategy(4,5), strategy.GeneticSearch(4,5, combine_formula=strategy.linear_combine))
+		gameari = ShapePoker(strategy.StaticStrategy(4,5), strategy.GeneticSearch(4,5, combine_formula=strategy.arithmetic_combine))
+		gamepyth = ShapePoker(strategy.StaticStrategy(4,5), strategy.GeneticSearch(4,5, combine_formula=strategy.pythagorean_combine))
+	
+		gamelin.play(100)
+		gameari.play(100)
+		gamepyth.play(100)
+		print (repr(("Linear",gamelin.pevolve.money)))
+		print(repr(("Arithmetic",gameari.pevolve.money)))
+		print(repr("Pythagorean",gamepyth.pevolve.money))
+
+def benchmark_simple_genetic_search():
+	print("session length:", PLAY_SESSION_LENGTH)
+	print("sessions to play for each combine_formula:", SESSIONS_TO_PLAY)
+	print()
+
+	# Simulates PLAY_SESSION_LENGTH*SESSIONS_TO_PLAY rounds of Shape Poker and takes data on how much money player `pevolve` earned over time.
+	for seed in seeds:
+		print("\n\nseed", seed, "\n")	
+		random.seed(seed)
+
+
+		gamelin = ShapePoker(strategy.StaticStrategy(4,5), strategy.GeneticSearch(4,5, combine_formula=strategy.linear_combine))
+
+
+		print("linear")
+		money_v_t(gamelin, sessions=SESSIONS_TO_PLAY) 
 
 def example_rounds():
 	print("seed", seeds[0])
@@ -200,9 +247,3 @@ seeds = [
 
 PLAY_SESSION_LENGTH = 20
 SESSIONS_TO_PLAY = 3000
-compare_vanilla_genetic_search_with_GMAB2()
-
-
-#river_score_vs_average_holding_score(n=10000)
-#win_rate(n=10000)
-#example_rounds()
