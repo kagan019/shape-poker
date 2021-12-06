@@ -8,10 +8,34 @@ import time
 
 #this is a client script for shapepoker.
 
+SEEDS = [
+	1512398,
+	4963463,
+	1283218,
+	8374263,
+	6712362,
+	4387523,
+	6734345,
+	9756767,
+	4223432,
+	2498375,
+	9764687,
+	1345323,
+	4231178,
+	8997675,
+	9845743,
+	1736432
+]
+
+METASEED = 923877432
+PLAY_SESSION_LENGTH = 20
+SESSIONS_TO_PLAY = 3000
+
 
 def count_stats(game, n=1000): 
 	#count number of occurences of certain events in n rounds.
-	#exclude rounds that end in ties.
+	#this is a quick internal helper function
+	#excludes rounds that end in ties.
 	vic = {}
 	freq = {}
 	riverexscore = {}
@@ -53,7 +77,7 @@ def count_stats(game, n=1000):
 	return vic, freq, riverexscore, riverfreq, notties
 
 
-def frequency_of_hand_score(n=1000):
+def frequency_of_hand_score(seeds=SEEDS, n=1000):
 	for s in seeds:
 		print("\nseed\n", s)
 		print("playing", n, "rounds")
@@ -65,7 +89,7 @@ def frequency_of_hand_score(n=1000):
 
 
 
-def river_score_vs_average_holding_score(n=1000):
+def river_score_vs_average_holding_score(seeds=SEEDS, n=1000):
 	for s in seeds:
 		print("\nseed\n", s)
 		print("playing", n, "rounds")
@@ -77,7 +101,9 @@ def river_score_vs_average_holding_score(n=1000):
 
 
 
-def win_rate(n=1000):
+def win_rate(seeds=SEEDS, n=1000):
+	# Make two random, unchanging `Strategy`s and have them battle a session of `n` rounds
+	# What % of the time does Player1 win?
 	for s in seeds:
 		print("\nseed\n", s)
 		print("playing", n, "rounds")
@@ -86,6 +112,7 @@ def win_rate(n=1000):
 		vic, fre, res, rf, nt = count_stats(game, n)
 		d = sum(vic.values()) / sum(fre.values())
 		print(d)
+		return d
 
 
 def money_v_t(game, cycles=100, sessions=None):
@@ -183,10 +210,29 @@ def compare_vanilla_genetic_search_with_GMAB2():
 		money_v_t(gameGMAB, sessions=SESSIONS_TO_PLAY) 
 		rounds_by_population(gameGMAB)									
 
-def compare_combine_formulas(metaseed):
+
+# FRONTEND
+# ---------
+
+def fairness():
+	# for 1000 seeds made by METASEED,
+	# run a session of 100 rounds and report the rate Player1 wins
+	random.seed(METASEED) # metaseed to generate seeds
+	range_object = range(2**31-1)
+	seeds = [random.choice(range_object) for _ in range(1000)]
+	winpcnt = []
+	for s in seeds:
+		print("\n\nseed",seed,"\n")
+		print("win rate after 100 rounds")
+		winpcnt += [win_rate(seeds=[s], n=100)]
+	print("avg: ", sum(winpcnt) / len(winpcnt)) #fair means 50%
+	
+
+
+def compare_combine_formulas():
 	# tabulates the final scores of players evolving via each combine formula
 	# across 1000 random seeds playing one session of 100 rounds per seed
-	random.seed(metaseed) # metaseed to generate seeds
+	random.seed(METASEED) # metaseed to generate seeds
 	range_object = range(2**31-1)
 	seeds = [random.choice(range_object) for _ in range(1000)]
 	for s in seeds:
@@ -204,9 +250,13 @@ def compare_combine_formulas(metaseed):
 		print(repr(("Arithmetic",gameari.pevolve.money)))
 		print(repr("Pythagorean",gamepyth.pevolve.money))
 
-def benchmark_simple_genetic_search():
+def benchmark_simple_genetic_search(seeds=SEEDS):
+	# For each seed,
+	# Pits an evolving player against a non-evolving player.
+	# Outputs score and gives the evolving player feedback after each session
+	# See example_rounds() to see a sample of what a 'session' of ShapePoker looks like
 	print("session length:", PLAY_SESSION_LENGTH)
-	print("sessions to play for each combine_formula:", SESSIONS_TO_PLAY)
+	print("sessions to play:", SESSIONS_TO_PLAY)
 	print()
 
 	# Simulates PLAY_SESSION_LENGTH*SESSIONS_TO_PLAY rounds of Shape Poker and takes data on how much money player `pevolve` earned over time.
@@ -214,36 +264,16 @@ def benchmark_simple_genetic_search():
 		print("\n\nseed", seed, "\n")	
 		random.seed(seed)
 
-
 		gamelin = ShapePoker(strategy.StaticStrategy(4,5), strategy.GeneticSearch(4,5, combine_formula=strategy.linear_combine))
-
-
+		
 		print("linear")
 		money_v_t(gamelin, sessions=SESSIONS_TO_PLAY) 
 
-def example_rounds():
+def example_rounds(seeds=SEEDS):
+	# play five rounds of two strategies playing against one another.
 	print("seed", seeds[0])
 	random.seed(seeds[0])
 	alfred.DEBUG = True
 	ShapePoker(strategy.StaticStrategy(4,5), strategy.StaticStrategy(4,5)).play(5)
 	alfred.DEBUG = False
 
-seeds = [
-	1512398,
-	4963463,
-	1283218,
-	8374263,
-	6712362,
-	4387523,
-	6734345,
-	9756767,
-	4223432,
-	2498375,
-	9764687,
-	1345323,
-	4231178,
-	8997675,
-]
-
-PLAY_SESSION_LENGTH = 20
-SESSIONS_TO_PLAY = 3000
