@@ -33,7 +33,7 @@ arithmetic_combine = lambda chrom, env: \
 	[abs(sum(a*b for a,b in zip(row,env + [1])))/len(row) for row in chrom]	
 
 pythagorean_combine = lambda chrom, env: \
-	[math.sqrt(abs(sum((a*b)**2 for a,b in zip(row,env + [1])))) for row in chrom]	
+	[math.sqrt(abs(sum((a*b)**2 for a,b in zip(row,env + [1])))) for row in chrom]
 
 class Dna:
 	MIN_MUT_RATE = 1

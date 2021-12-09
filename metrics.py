@@ -27,9 +27,9 @@ SEEDS = [
 	1736432
 ]
 
-METASEED = 923877432
+METASEED = 76433423
 PLAY_SESSION_LENGTH = 20
-SESSIONS_TO_PLAY = 3000
+SESSIONS_TO_PLAY = 100
 
 
 def count_stats(game, n=1000): 
@@ -101,14 +101,14 @@ def river_score_vs_average_holding_score(seeds=SEEDS, n=1000):
 
 
 
-def win_rate(seeds=SEEDS, n=1000):
+def win_rate(seeds=SEEDS, n=1000, strat=strategy.StaticStrategy):
 	# Make two random, unchanging `Strategy`s and have them battle a session of `n` rounds
-	# What % of the time does Player1 win?
+	# What % of the time does the evolving player win?
 	for s in seeds:
 		print("\nseed\n", s)
-		print("playing", n, "rounds")
+		print("win rate after", n, "rounds")
 		random.seed(s)
-		game = ShapePoker(strategy.StaticStrategy(4,5), strategy.StaticStrategy(4,5))
+		game = ShapePoker(strategy.StaticStrategy(4,5), strat(4,5))
 		vic, fre, res, rf, nt = count_stats(game, n)
 		d = sum(vic.values()) / sum(fre.values())
 		print(d)
@@ -211,32 +211,22 @@ def compare_vanilla_genetic_search_with_GMAB2():
 		rounds_by_population(gameGMAB)									
 
 
-# FRONTEND
-# ---------
-
 def fairness():
 	# for 1000 seeds made by METASEED,
-	# run a session of 100 rounds and report the rate Player1 wins
+	# run a session of 1000 rounds and report the rate the evolving player wins
 	random.seed(METASEED) # metaseed to generate seeds
 	range_object = range(2**31-1)
 	seeds = [random.choice(range_object) for _ in range(1000)]
 	winpcnt = []
-	for s in seeds:
-		print("\n\nseed",seed,"\n")
-		print("win rate after 100 rounds")
-		winpcnt += [win_rate(seeds=[s], n=100)]
+	for seed in seeds:
+		winpcnt += [win_rate(seeds=[seed])]
 	print("avg: ", sum(winpcnt) / len(winpcnt)) #fair means 50%
-	
 
-
-def compare_combine_formulas():
-	# tabulates the final scores of players evolving via each combine formula
-	# across 1000 random seeds playing one session of 100 rounds per seed
-	random.seed(METASEED) # metaseed to generate seeds
-	range_object = range(2**31-1)
-	seeds = [random.choice(range_object) for _ in range(1000)]
+def compare_combine_formulas(seeds=SEEDS):
+	# tabulates the final scores of the evolving players using each combine formula
+	# plays one session of 100 rounds per seed per formula
 	for s in seeds:
-		print("\n\nseed",seed,"\n")
+		print("\n\nseed",s,"\n")
 		random.seed(s)
 
 		gamelin = ShapePoker(strategy.StaticStrategy(4,5), strategy.GeneticSearch(4,5, combine_formula=strategy.linear_combine))
@@ -248,9 +238,9 @@ def compare_combine_formulas():
 		gamepyth.play(100)
 		print (repr(("Linear",gamelin.pevolve.money)))
 		print(repr(("Arithmetic",gameari.pevolve.money)))
-		print(repr("Pythagorean",gamepyth.pevolve.money))
+		print(repr(("Pythagorean",gamepyth.pevolve.money)))
 
-def benchmark_simple_genetic_search(seeds=SEEDS):
+def benchmark_genetic_search_strategy(seeds=SEEDS):
 	# For each seed,
 	# Pits an evolving player against a non-evolving player.
 	# Outputs score and gives the evolving player feedback after each session
@@ -276,4 +266,3 @@ def example_rounds(seeds=SEEDS):
 	alfred.DEBUG = True
 	ShapePoker(strategy.StaticStrategy(4,5), strategy.StaticStrategy(4,5)).play(5)
 	alfred.DEBUG = False
-
