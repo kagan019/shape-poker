@@ -161,12 +161,9 @@ end
 # ╔═╡ 5ff900bb-1db1-4183-954e-6c55b9182ee4
 plot_success_data(read(run_metric("benchmark_genetic_search_strategy"),String))
 
-# ╔═╡ 6600a639-cd15-43df-887f-0ca13be81ea2
-
-
 # ╔═╡ ba5b6b87-9d60-40db-afcd-0e2398a70667
 begin
-k=13
+k=1
 # find the indexes between studies
 lines = split(read(run_metric("benchmark_genetic_search_strategy"),String),"\n")
 v = map(enumerate(lines)) do (i,s)
@@ -182,7 +179,7 @@ p = map(eachmatch(
 )) do m
 	parse(Int,m.captures[1]),parse(Int,m.captures[2])
 end
-plot(p)
+scatter(p)
 end
 
 # ╔═╡ 858f96ef-f482-45d5-a5c6-bc1e8944d894
@@ -1550,7 +1547,6 @@ version = "0.9.1+5"
 # ╟─8c0c1f32-e051-43a0-b3e0-cab4a44b4f3b
 # ╟─b4136155-3afe-4a98-bbc2-ab6ac7c88a8c
 # ╟─5ff900bb-1db1-4183-954e-6c55b9182ee4
-# ╠═6600a639-cd15-43df-887f-0ca13be81ea2
 # ╠═ba5b6b87-9d60-40db-afcd-0e2398a70667
 # ╟─858f96ef-f482-45d5-a5c6-bc1e8944d894
 # ╟─b6c0532f-b9ae-4d8a-8a8e-0116c598ce9a
