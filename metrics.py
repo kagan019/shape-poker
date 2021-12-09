@@ -28,8 +28,8 @@ SEEDS = [
 ]
 
 METASEED = 76433423
-PLAY_SESSION_LENGTH = 20
-SESSIONS_TO_PLAY = 100
+PLAY_SESSION_LENGTH = 30
+SESSIONS_TO_PLAY = 30000
 
 
 def count_stats(game, n=1000): 
@@ -115,7 +115,7 @@ def win_rate(seeds=SEEDS, n=1000, strat=strategy.StaticStrategy):
 		return d
 
 
-def money_v_t(game, cycles=100, sessions=None):
+def money_v_t(game, cycles=None, sessions=PLAY_SESSION_LENGTH):
 	# can run for a certain number of games or a certain number of evolutionary cycles
 	mvtevolve = []
 	mvtsesh = []
@@ -125,13 +125,12 @@ def money_v_t(game, cycles=100, sessions=None):
 	j = 0
 	while (i < cycles if sessions is None else j < sessions):
 		game.play(PLAY_SESSION_LENGTH)
+		mvtsesh += [game.pevolve.money - money_had_last_play_sesh]
 		if game.pevolve.strategy.update(game.pevolve.money - money_had_last_play_sesh): # always True for a static strategy
 			i += 1
 			mvtevolve += [game.pevolve.money - money_had_last_evolve]
 			money_had_last_evolve = game.pevolve.money
-		mvtsesh += [game.pevolve.money - money_had_last_play_sesh]
 		money_had_last_play_sesh = game.pevolve.money
-		mvtsesh += []
 		j += 1
 	if sessions is None:
 		for i, x in enumerate(mvtevolve):
@@ -224,7 +223,7 @@ def fairness():
 
 def compare_combine_formulas(seeds=SEEDS):
 	# tabulates the final scores of the evolving players using each combine formula
-	# plays one session of 100 rounds per seed per formula
+	# plays one session of PlAY_SESSION_LENGTH rounds per seed per formula
 	for s in seeds:
 		print("\n\nseed",s,"\n")
 		random.seed(s)
@@ -233,9 +232,9 @@ def compare_combine_formulas(seeds=SEEDS):
 		gameari = ShapePoker(strategy.StaticStrategy(4,5), strategy.GeneticSearch(4,5, combine_formula=strategy.arithmetic_combine))
 		gamepyth = ShapePoker(strategy.StaticStrategy(4,5), strategy.GeneticSearch(4,5, combine_formula=strategy.pythagorean_combine))
 	
-		gamelin.play(100)
-		gameari.play(100)
-		gamepyth.play(100)
+		gamelin.play(PLAY_SESSION_LENGTH)
+		gameari.play(PLAY_SESSION_LENGTH)
+		gamepyth.play(PLAY_SESSION_LENGTH)
 		print (repr(("Linear",gamelin.pevolve.money)))
 		print(repr(("Arithmetic",gameari.pevolve.money)))
 		print(repr(("Pythagorean",gamepyth.pevolve.money)))
