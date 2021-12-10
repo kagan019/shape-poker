@@ -1,0 +1,112 @@
+
+
+seed 1512398 
+
+('Linear', 4)
+('Arithmetic', 15)
+('Pythagorean', 21)
+
+
+seed 4963463 
+
+('Linear', 24)
+('Arithmetic', 48)
+('Pythagorean', 17)
+
+
+seed 1283218 
+
+('Linear', 63)
+('Arithmetic', -16)
+('Pythagorean', -28)
+
+
+seed 8374263 
+
+('Linear', 21)
+('Arithmetic', 14)
+('Pythagorean', -15)
+
+
+seed 6712362 
+
+('Linear', 33)
+('Arithmetic', 17)
+('Pythagorean', 34)
+
+
+seed 4387523 
+
+('Linear', 30)
+('Arithmetic', 60)
+('Pythagorean', 12)
+
+
+seed 6734345 
+
+('Linear', 29)
+('Arithmetic', 20)
+('Pythagorean', 27)
+
+
+seed 9756767 
+
+('Linear', -31)
+('Arithmetic', 25)
+('Pythagorean', 16)
+
+
+seed 4223432 
+
+('Linear', 12)
+('Arithmetic', 7)
+('Pythagorean', 17)
+
+
+seed 2498375 
+
+('Linear', -10)
+('Arithmetic', -12)
+('Pythagorean', 15)
+
+
+seed 9764687 
+
+('Linear', 29)
+('Arithmetic', 0)
+('Pythagorean', -12)
+
+
+seed 1345323 
+
+('Linear', 18)
+('Arithmetic', 16)
+('Pythagorean', 26)
+
+
+seed 4231178 
+
+('Linear', 10)
+('Arithmetic', 30)
+('Pythagorean', -1)
+
+
+seed 8997675 
+
+('Linear', 28)
+('Arithmetic', 53)
+('Pythagorean', 6)
+
+
+seed 9845743 
+
+('Linear', 1)
+('Arithmetic', 2)
+('Pythagorean', 1)
+
+
+seed 1736432 
+
+('Linear', 16)
+('Arithmetic', -55)
+('Pythagorean', 60)

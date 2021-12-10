@@ -18,7 +18,10 @@ end
 using PlutoUI, HypertextLiteral, Dates, Plots
 
 # ╔═╡ 91de6368-6e15-42d9-8fff-e0b3a4a162f2
+begin
 md"_press ctrl+./ctrl+, to advance/rewind the presentation_"
+nothing
+end
 
 # ╔═╡ 26440e94-9ae4-4845-a733-b752233a5a34
 begin
@@ -68,6 +71,9 @@ end
 # ╔═╡ d3ab82e2-525d-11ec-2828-4da3904be0ee
 md"# shape poker
 © 2021 Thomas Kagan"
+
+# ╔═╡ 8114c5a1-958c-4343-8375-e069563ca2be
+md"[on github](https://github.com/kagan019/shape-poker)"
 
 # ╔═╡ f9952443-595c-4af8-afcb-7ca7e7ce0aa7
 begin
@@ -158,9 +164,6 @@ function run_metric(command_name)
 end
 
 
-# ╔═╡ 5ff900bb-1db1-4183-954e-6c55b9182ee4
-plot_success_data(read(run_metric("benchmark_genetic_search_strategy"),String))
-
 # ╔═╡ ba5b6b87-9d60-40db-afcd-0e2398a70667
 begin
 k=1
@@ -180,7 +183,14 @@ p = map(eachmatch(
 	parse(Int,m.captures[1]),parse(Int,m.captures[2])
 end
 scatter(p)
+scatter!(xlabel="round", ylabel="money won")
 end
+
+# ╔═╡ 5ff900bb-1db1-4183-954e-6c55b9182ee4
+plot_success_data(read(run_metric("benchmark_genetic_search_strategy"),String))
+
+# ╔═╡ 9ea8955d-105c-4841-82b4-2715cbe20307
+plot_success_data(read(run_metric("benchmark_static_search_strategy"),String))
 
 # ╔═╡ 858f96ef-f482-45d5-a5c6-bc1e8944d894
 md"## project"
@@ -218,7 +228,7 @@ md"##### fairness"
 md"have two NON evolving players duke it out"
 
 # ╔═╡ bc05f3b0-e828-44a6-8f62-c4c7aba5377a
-frns = read(run_metric("fairness"), String)
+frns = read(run_metric("fairness"), String) 
 
 # ╔═╡ 8f969c1b-1c72-45f2-a0fd-6615507bd1fa
 frns_winpcnt = map(eachmatch(r"rounds\n(0\.[0-9]+)\n", frns)) do m
@@ -447,6 +457,12 @@ possible_bets = [-1, 0, 1, 2, 3] # 5 output dimensions
 # ╔═╡ bfc6a235-2e09-4b5c-870d-948da20ef0bb
 begin
 money_emoji = Resource("https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/310/money-bag_1f4b0.png", :width=>25, :height=>25)
+sad_emoji = Resource("https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/pensive-face_1f614.png", :width=>25, :height=>25)
+ok_emoji = Resource("https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/joypixels/291/ok-hand_1f44c.png", :width=>25, :height=>25)
+bank_emoji = Resource("https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/bank_1f3e6.png",  :width=>25, :height=>25)
+river_emoji = Resource("https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/312/water-wave_1f30a.png", :width=>25, :height=>25)
+pot_of_gold_emoji = Resource("https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/htc/37/honey-pot_1f36f.png", :width=>25, :height=>25)
+time_emoji = Resource("https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/310/hourglass-done_231b.png", :width=>25, :height=>25)
 mtx = md"""
 $\begin{bmatrix}
 • & • & • & • & •\\
@@ -456,10 +472,21 @@ $\begin{bmatrix}
 • & • & • & • & •\\
 \end{bmatrix}$
 """
-@htl """<div>
-<span style="position: relative; left: 120px; top: 120px;">apples</span>
-$mtx
+@htl """
+<div>
+<span style="position: absolute; left:16.8em; top:-.5em;">$bank_emoji</span>
+<span style="position: absolute; left:18.4em; top:-.5em;">$river_emoji</span>
+<span style="position: absolute; left:19.9em; top:-.5em;">$pot_of_gold_emoji</span>
+<span style="position: absolute; left:21.4em; top:-.5em;">$time_emoji</span>
+<span style="position: absolute; left:23.5em; top:-.5em;">1</span>
+<span style="position: absolute; left: 14.8em; top: .5em;">$sad_emoji</span>
+<span style="position: absolute; left: 14.8em; top: 2em;">$ok_emoji</span>
+<span style="position: absolute; left: 14.8em; top: 3.5em;">1 $money_emoji</span>
+<span style="position: absolute; left: 14.8em; top: 5em;">2 $money_emoji</span>
+<span style="position: absolute; left: 14.8em; top: 6.5em;">3 $money_emoji</span>
 </div>
+$mtx
+
 """
 end
 
@@ -614,6 +641,11 @@ md"
 
 "
 
+# ╔═╡ e3f47f60-4ff9-4a78-af19-a3f33b956965
+@htl """
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZUNRmwoijw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+"""
+
 # ╔═╡ d9a282b7-d11b-4d5b-8724-37b541e643d9
 md"![](https://images.immediate.co.uk/production/volatile/sites/4/2018/08/GettyImages-85757595-97ef2bc.jpg?quality=90&crop=6px,33px,928px,399px&resize=960,413)"
 
@@ -621,7 +653,7 @@ md"![](https://images.immediate.co.uk/production/volatile/sites/4/2018/08/GettyI
 md"
 - compare with other symmetric emergent optimization algorithms
 - enable a more sophisticated tournament setup for transfer
-- require the `Strategy` grok knowlege of how to play the game
+- require the `Strategy`™ grok how to play the game by itself
 "
 
 # ╔═╡ 8a1cd3b2-a68d-4e8b-9603-5e752ac9111c
@@ -1535,6 +1567,7 @@ version = "0.9.1+5"
 # ╟─2ec90f9f-d92d-45c6-8d15-e0153259c7c5
 # ╟─ed957203-dd59-464c-937e-0b4f135216bf
 # ╟─d3ab82e2-525d-11ec-2828-4da3904be0ee
+# ╟─8114c5a1-958c-4343-8375-e069563ca2be
 # ╟─f9952443-595c-4af8-afcb-7ca7e7ce0aa7
 # ╟─6bba50da-156f-4548-951e-f4efe989063d
 # ╟─e8c1daaf-73f8-4f3e-bf39-70315098d661
@@ -1546,8 +1579,9 @@ version = "0.9.1+5"
 # ╟─8688a097-8583-4c53-8b8d-8d77df23dd82
 # ╟─8c0c1f32-e051-43a0-b3e0-cab4a44b4f3b
 # ╟─b4136155-3afe-4a98-bbc2-ab6ac7c88a8c
+# ╟─ba5b6b87-9d60-40db-afcd-0e2398a70667
 # ╟─5ff900bb-1db1-4183-954e-6c55b9182ee4
-# ╠═ba5b6b87-9d60-40db-afcd-0e2398a70667
+# ╠═9ea8955d-105c-4841-82b4-2715cbe20307
 # ╟─858f96ef-f482-45d5-a5c6-bc1e8944d894
 # ╟─b6c0532f-b9ae-4d8a-8a8e-0116c598ce9a
 # ╟─50feddb8-86dd-40a7-b576-aa381b75d29a
@@ -1604,6 +1638,7 @@ version = "0.9.1+5"
 # ╟─71664389-7bee-400d-9554-7c56988bb566
 # ╟─935e6d2e-f1d0-4ea4-afa0-25168031cd93
 # ╟─feabf101-5e5d-4b7b-945e-74c4666d3811
+# ╟─e3f47f60-4ff9-4a78-af19-a3f33b956965
 # ╟─d9a282b7-d11b-4d5b-8724-37b541e643d9
 # ╟─b9dd27ef-01c0-4e87-a7a4-af230846922a
 # ╟─8a1cd3b2-a68d-4e8b-9603-5e752ac9111c

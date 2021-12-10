@@ -29,7 +29,7 @@ SEEDS = [
 
 METASEED = 76433423
 PLAY_SESSION_LENGTH = 30
-SESSIONS_TO_PLAY = 30000
+SESSIONS_TO_PLAY = 3000
 
 
 def count_stats(game, n=1000): 
@@ -257,6 +257,25 @@ def benchmark_genetic_search_strategy(seeds=SEEDS):
 		
 		print("linear")
 		money_v_t(gamelin, sessions=SESSIONS_TO_PLAY) 
+
+def benchmark_static_search_strategy(seeds=SEEDS):
+	# For each seed,
+	# Pits an evolving player against a non-evolving player.
+	# Outputs score and gives the evolving player feedback after each session
+	# See example_rounds() to see a sample of what a 'session' of ShapePoker looks like
+	print("session length:", PLAY_SESSION_LENGTH)
+	print("sessions to play:", SESSIONS_TO_PLAY)
+	print()
+
+	# Simulates PLAY_SESSION_LENGTH*SESSIONS_TO_PLAY rounds of Shape Poker and takes data on how much money player `pevolve` earned over time.
+	for seed in seeds:
+		print("\n\nseed", seed, "\n")	
+		random.seed(seed)
+
+		gamelin = ShapePoker(strategy.StaticStrategy(4,5), strategy.StaticStrategy(4,5))
+		
+		print("linear")
+		money_v_t(gamelin, sessions=SESSIONS_TO_PLAY)
 
 def example_rounds(seeds=SEEDS):
 	# play five rounds of two strategies playing against one another.
