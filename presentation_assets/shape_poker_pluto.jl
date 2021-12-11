@@ -186,12 +186,6 @@ scatter(p)
 scatter!(xlabel="round", ylabel="money won")
 end
 
-# ╔═╡ 5ff900bb-1db1-4183-954e-6c55b9182ee4
-plot_success_data(read(run_metric("benchmark_genetic_search_strategy"),String))
-
-# ╔═╡ 9ea8955d-105c-4841-82b4-2715cbe20307
-plot_success_data(read(run_metric("benchmark_static_search_strategy"),String))
-
 # ╔═╡ 858f96ef-f482-45d5-a5c6-bc1e8944d894
 md"## project"
 
@@ -1580,8 +1574,6 @@ version = "0.9.1+5"
 # ╟─8c0c1f32-e051-43a0-b3e0-cab4a44b4f3b
 # ╟─b4136155-3afe-4a98-bbc2-ab6ac7c88a8c
 # ╟─ba5b6b87-9d60-40db-afcd-0e2398a70667
-# ╟─5ff900bb-1db1-4183-954e-6c55b9182ee4
-# ╠═9ea8955d-105c-4841-82b4-2715cbe20307
 # ╟─858f96ef-f482-45d5-a5c6-bc1e8944d894
 # ╟─b6c0532f-b9ae-4d8a-8a8e-0116c598ce9a
 # ╟─50feddb8-86dd-40a7-b576-aa381b75d29a
