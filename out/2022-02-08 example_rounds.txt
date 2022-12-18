@@ -1,0 +1,51 @@
+seed 1512398
+round 1 ( P2 has earned 0 )
+deal, pot is 2
+R:  [triangle(red), circle(green)] 
+P1:  [triangle(green), diamond(lavender)] ( 0 ) 
+P2:  [circle(green), square(blue)] ( 0 )
+P1 raises 2
+P2 raises 1
+P1 calls
+flop, pot is 10
+R:  [triangle(red), circle(green), square(blue)] 
+P1:  [triangle(green), diamond(lavender)] ( 4 ) 
+P2:  [circle(green), square(blue)] ( 1 )
+P1 folds
+P2 wins!
+
+round 2 ( P2 has earned +6 )
+deal, pot is 2
+R:  [triangle(lavender), circle(blue)] 
+P1:  [circle(blue), diamond(blue)] ( 0 ) 
+P2:  [triangle(blue), diamond(blue)] ( 0 )
+P1 folds
+P2 wins!
+
+round 3 ( P2 has earned +7 )
+deal, pot is 2
+R:  [triangle(blue), square(lavender)] 
+P1:  [triangle(blue), diamond(green)] ( 0 ) 
+P2:  [square(green), triangle(green)] ( 1 )
+P1 raises 2
+P2 folds
+P1 wins!
+
+round 4 ( P2 has earned +6 )
+deal, pot is 2
+R:  [circle(blue), diamond(red)] 
+P1:  [square(red), circle(green)] ( 0 ) 
+P2:  [square(blue), square(lavender)] ( 0 )
+P1 folds
+P2 wins!
+
+round 5 ( P2 has earned +7 )
+deal, pot is 2
+R:  [triangle(blue), diamond(lavender)] 
+P1:  [diamond(red), diamond(green)] ( 3 ) 
+P2:  [circle(blue), triangle(red)] ( 0 )
+P1 raises 2
+P2 raises 1
+P1 folds
+P2 wins!
+

@@ -1,0 +1,5001 @@
+
+seed
+ 170919554
+win rate after 1000 rounds
+0.554932735426009
+
+seed
+ 1097390512
+win rate after 1000 rounds
+0.509895227008149
+
+seed
+ 1567166252
+win rate after 1000 rounds
+0.7353951890034365
+
+seed
+ 1351096681
+win rate after 1000 rounds
+0.5813953488372093
+
+seed
+ 769673946
+win rate after 1000 rounds
+0.7440860215053764
+
+seed
+ 1475492662
+win rate after 1000 rounds
+0.4880694143167028
+
+seed
+ 1928511874
+win rate after 1000 rounds
+0.7269874476987448
+
+seed
+ 1460382763
+win rate after 1000 rounds
+0.5596133190118152
+
+seed
+ 682026869
+win rate after 1000 rounds
+0.5384615384615384
+
+seed
+ 1562817752
+win rate after 1000 rounds
+0.48268839103869654
+
+seed
+ 632009827
+win rate after 1000 rounds
+0.7673913043478261
+
+seed
+ 946760312
+win rate after 1000 rounds
+0.52
+
+seed
+ 1655328529
+win rate after 1000 rounds
+0.7604602510460251
+
+seed
+ 736794896
+win rate after 1000 rounds
+0.8012232415902141
+
+seed
+ 745266671
+win rate after 1000 rounds
+0.5977366255144033
+
+seed
+ 969681477
+win rate after 1000 rounds
+0.6072186836518046
+
+seed
+ 77907347
+win rate after 1000 rounds
+0.31099476439790574
+
+seed
+ 1831278751
+win rate after 1000 rounds
+0.6614872364039955
+
+seed
+ 863386080
+win rate after 1000 rounds
+0.5458248472505092
+
+seed
+ 1572507097
+win rate after 1000 rounds
+0.591991341991342
+
+seed
+ 1659156663
+win rate after 1000 rounds
+0.7661469933184856
+
+seed
+ 1510173493
+win rate after 1000 rounds
+0.6862302483069977
+
+seed
+ 1487630348
+win rate after 1000 rounds
+0.6220633299284984
+
+seed
+ 1255563867
+win rate after 1000 rounds
+0.3757159221076747
+
+seed
+ 1741490709
+win rate after 1000 rounds
+0.6983957219251337
+
+seed
+ 1807487955
+win rate after 1000 rounds
+0.5621500559910414
+
+seed
+ 548009502
+win rate after 1000 rounds
+0.29258098223615464
+
+seed
+ 1220285559
+win rate after 1000 rounds
+0.7139737991266376
+
+seed
+ 1791147011
+win rate after 1000 rounds
+0.5556756756756757
+
+seed
+ 1371928305
+win rate after 1000 rounds
+0.430062630480167
+
+seed
+ 482901807
+win rate after 1000 rounds
+0.513677811550152
+
+seed
+ 1021437705
+win rate after 1000 rounds
+0.2657563025210084
+
+seed
+ 61964114
+win rate after 1000 rounds
+0.26811594202898553
+
+seed
+ 1731204475
+win rate after 1000 rounds
+0.7144362486828241
+
+seed
+ 1205271809
+win rate after 1000 rounds
+0.5290763968072976
+
+seed
+ 712537958
+win rate after 1000 rounds
+0.9263803680981595
+
+seed
+ 274653267
+win rate after 1000 rounds
+0.3930510314875136
+
+seed
+ 1894828869
+win rate after 1000 rounds
+0.2542918454935622
+
+seed
+ 1131575366
+win rate after 1000 rounds
+0.5377155172413793
+
+seed
+ 993879731
+win rate after 1000 rounds
+0.632438739789965
+
+seed
+ 1659992214
+win rate after 1000 rounds
+0.7116827438370846
+
+seed
+ 2018228727
+win rate after 1000 rounds
+0.5216942148760331
+
+seed
+ 303350081
+win rate after 1000 rounds
+0.7596471885336273
+
+seed
+ 236369230
+win rate after 1000 rounds
+0.6485655737704918
+
+seed
+ 145347796
+win rate after 1000 rounds
+0.588937093275488
+
+seed
+ 1641718857
+win rate after 1000 rounds
+0.4878048780487805
+
+seed
+ 789803503
+win rate after 1000 rounds
+0.4340909090909091
+
+seed
+ 2089206915
+win rate after 1000 rounds
+0.43686006825938567
+
+seed
+ 593335656
+win rate after 1000 rounds
+0.6896929824561403
+
+seed
+ 741518890
+win rate after 1000 rounds
+0.3709856035437431
+
+seed
+ 1948735555
+win rate after 1000 rounds
+0.7537746806039489
+
+seed
+ 914701383
+win rate after 1000 rounds
+0.2359081419624217
+
+seed
+ 1420616975
+win rate after 1000 rounds
+0.3705220061412487
+
+seed
+ 992326728
+win rate after 1000 rounds
+0.44526315789473686
+
+seed
+ 10332139
+win rate after 1000 rounds
+0.7281153450051493
+
+seed
+ 992496294
+win rate after 1000 rounds
+0.683585313174946
+
+seed
+ 2028494212
+win rate after 1000 rounds
+0.5188888888888888
+
+seed
+ 1768671912
+win rate after 1000 rounds
+0.380065717415115
+
+seed
+ 1866011909
+win rate after 1000 rounds
+0.7772073921971252
+
+seed
+ 12232293
+win rate after 1000 rounds
+0.7881619937694704
+
+seed
+ 1105032588
+win rate after 1000 rounds
+0.6775553213909379
+
+seed
+ 1832429417
+win rate after 1000 rounds
+0.5890557939914163
+
+seed
+ 986511538
+win rate after 1000 rounds
+0.4622741764080765
+
+seed
+ 908630471
+win rate after 1000 rounds
+0.5592515592515592
+
+seed
+ 1873376942
+win rate after 1000 rounds
+0.48630887185104055
+
+seed
+ 2100662810
+win rate after 1000 rounds
+0.4737394957983193
+
+seed
+ 314932086
+win rate after 1000 rounds
+0.7259978425026968
+
+seed
+ 473817818
+win rate after 1000 rounds
+0.6284796573875803
+
+seed
+ 813538337
+win rate after 1000 rounds
+0.7402597402597403
+
+seed
+ 1253768284
+win rate after 1000 rounds
+0.28451882845188287
+
+seed
+ 1672859113
+win rate after 1000 rounds
+0.36314655172413796
+
+seed
+ 2063752696
+win rate after 1000 rounds
+0.7906724511930586
+
+seed
+ 1904246630
+win rate after 1000 rounds
+0.5560538116591929
+
+seed
+ 453169390
+win rate after 1000 rounds
+0.6313559322033898
+
+seed
+ 508014787
+win rate after 1000 rounds
+0.6897297297297297
+
+seed
+ 216063452
+win rate after 1000 rounds
+0.389917695473251
+
+seed
+ 90840164
+win rate after 1000 rounds
+0.5130151843817787
+
+seed
+ 741841244
+win rate after 1000 rounds
+0.5196078431372549
+
+seed
+ 114752029
+win rate after 1000 rounds
+0.7611168562564633
+
+seed
+ 2107629317
+win rate after 1000 rounds
+0.5577319587628866
+
+seed
+ 2042064094
+win rate after 1000 rounds
+0.5703781512605042
+
+seed
+ 1040091890
+win rate after 1000 rounds
+0.5010570824524313
+
+seed
+ 1262023219
+win rate after 1000 rounds
+0.6307692307692307
+
+seed
+ 364255041
+win rate after 1000 rounds
+0.7341640706126688
+
+seed
+ 2096041105
+win rate after 1000 rounds
+0.5834218916046758
+
+seed
+ 1632486967
+win rate after 1000 rounds
+0.584061135371179
+
+seed
+ 366368524
+win rate after 1000 rounds
+0.3133997785160576
+
+seed
+ 665779624
+win rate after 1000 rounds
+0.6396807297605474
+
+seed
+ 1718395778
+win rate after 1000 rounds
+0.4844097995545657
+
+seed
+ 1497883855
+win rate after 1000 rounds
+0.6673427991886409
+
+seed
+ 1801455565
+win rate after 1000 rounds
+0.5842217484008528
+
+seed
+ 597197473
+win rate after 1000 rounds
+0.5544147843942505
+
+seed
+ 1554505685
+win rate after 1000 rounds
+0.6380145278450363
+
+seed
+ 1815549695
+win rate after 1000 rounds
+0.53732912723449
+
+seed
+ 27619034
+win rate after 1000 rounds
+0.7001034126163392
+
+seed
+ 92339072
+win rate after 1000 rounds
+0.7386478304742684
+
+seed
+ 1367532841
+win rate after 1000 rounds
+0.5524691358024691
+
+seed
+ 408145169
+win rate after 1000 rounds
+0.4155440414507772
+
+seed
+ 1176259726
+win rate after 1000 rounds
+0.6515353805073432
+
+seed
+ 926166951
+win rate after 1000 rounds
+0.3776223776223776
+
+seed
+ 1497361783
+win rate after 1000 rounds
+0.4898828541001065
+
+seed
+ 775050534
+win rate after 1000 rounds
+0.7133891213389121
+
+seed
+ 1675493814
+win rate after 1000 rounds
+0.7523413111342352
+
+seed
+ 1821173186
+win rate after 1000 rounds
+0.3172268907563025
+
+seed
+ 1011848110
+win rate after 1000 rounds
+0.3065843621399177
+
+seed
+ 986471758
+win rate after 1000 rounds
+0.5720164609053497
+
+seed
+ 2018569711
+win rate after 1000 rounds
+0.3021052631578947
+
+seed
+ 1519830462
+win rate after 1000 rounds
+0.6220391349124614
+
+seed
+ 1405143581
+win rate after 1000 rounds
+0.46282722513089003
+
+seed
+ 18815703
+win rate after 1000 rounds
+0.6308040770101925
+
+seed
+ 1803728199
+win rate after 1000 rounds
+0.6176470588235294
+
+seed
+ 156057508
+win rate after 1000 rounds
+0.5873015873015873
+
+seed
+ 926664071
+win rate after 1000 rounds
+0.3238993710691824
+
+seed
+ 1645458666
+win rate after 1000 rounds
+0.5971128608923885
+
+seed
+ 1370389974
+win rate after 1000 rounds
+0.5951327433628318
+
+seed
+ 1574619035
+win rate after 1000 rounds
+0.49306296691568835
+
+seed
+ 1204034133
+win rate after 1000 rounds
+0.399540757749713
+
+seed
+ 975507452
+win rate after 1000 rounds
+0.43914680050188204
+
+seed
+ 1701738994
+win rate after 1000 rounds
+0.48596112311015116
+
+seed
+ 657299941
+win rate after 1000 rounds
+0.47613636363636364
+
+seed
+ 269249510
+win rate after 1000 rounds
+0.4861878453038674
+
+seed
+ 1706199421
+win rate after 1000 rounds
+0.6734913793103449
+
+seed
+ 1803186718
+win rate after 1000 rounds
+0.826963906581741
+
+seed
+ 665129367
+win rate after 1000 rounds
+0.24046610169491525
+
+seed
+ 747325513
+win rate after 1000 rounds
+0.6583143507972665
+
+seed
+ 885659513
+win rate after 1000 rounds
+0.5413533834586466
+
+seed
+ 548087713
+win rate after 1000 rounds
+0.7457114026236125
+
+seed
+ 1996150140
+win rate after 1000 rounds
+0.6184782608695653
+
+seed
+ 824512230
+win rate after 1000 rounds
+0.44759825327510916
+
+seed
+ 756400457
+win rate after 1000 rounds
+0.7078059071729957
+
+seed
+ 1029825601
+win rate after 1000 rounds
+0.5370569280343717
+
+seed
+ 1727790752
+win rate after 1000 rounds
+0.7287066246056783
+
+seed
+ 1038982131
+win rate after 1000 rounds
+0.7925696594427245
+
+seed
+ 262938754
+win rate after 1000 rounds
+0.4387865655471289
+
+seed
+ 941863024
+win rate after 1000 rounds
+0.4470468431771894
+
+seed
+ 1688927077
+win rate after 1000 rounds
+0.664179104477612
+
+seed
+ 761850452
+win rate after 1000 rounds
+0.5074152542372882
+
+seed
+ 1825031166
+win rate after 1000 rounds
+0.647489539748954
+
+seed
+ 1417421461
+win rate after 1000 rounds
+0.4229471316085489
+
+seed
+ 325187329
+win rate after 1000 rounds
+0.5567805953693495
+
+seed
+ 1188112777
+win rate after 1000 rounds
+0.6384692849949648
+
+seed
+ 1076902251
+win rate after 1000 rounds
+0.4134020618556701
+
+seed
+ 1606046408
+win rate after 1000 rounds
+0.2858638743455497
+
+seed
+ 571988935
+win rate after 1000 rounds
+0.6122004357298475
+
+seed
+ 1022092524
+win rate after 1000 rounds
+0.618848167539267
+
+seed
+ 821952393
+win rate after 1000 rounds
+0.6252747252747253
+
+seed
+ 1516922495
+win rate after 1000 rounds
+0.7337733773377337
+
+seed
+ 625811450
+win rate after 1000 rounds
+0.5192096597145993
+
+seed
+ 1021909249
+win rate after 1000 rounds
+0.8602383531960996
+
+seed
+ 1581594446
+win rate after 1000 rounds
+0.7225305216426193
+
+seed
+ 683366871
+win rate after 1000 rounds
+0.5060639470782801
+
+seed
+ 437885174
+win rate after 1000 rounds
+0.40454076367389064
+
+seed
+ 542943918
+win rate after 1000 rounds
+0.5124153498871332
+
+seed
+ 1748661055
+win rate after 1000 rounds
+0.5304449648711944
+
+seed
+ 2108117667
+win rate after 1000 rounds
+0.6175257731958763
+
+seed
+ 1652264641
+win rate after 1000 rounds
+0.7336683417085427
+
+seed
+ 1802345969
+win rate after 1000 rounds
+0.604887983706721
+
+seed
+ 1019012023
+win rate after 1000 rounds
+0.3516597510373444
+
+seed
+ 1272200091
+win rate after 1000 rounds
+0.6145077720207254
+
+seed
+ 936052148
+win rate after 1000 rounds
+0.6491596638655462
+
+seed
+ 1216429444
+win rate after 1000 rounds
+0.38159371492704824
+
+seed
+ 2129106712
+win rate after 1000 rounds
+0.5444096133751306
+
+seed
+ 1252826121
+win rate after 1000 rounds
+0.6279683377308707
+
+seed
+ 1827239788
+win rate after 1000 rounds
+0.6803900325027086
+
+seed
+ 932527738
+win rate after 1000 rounds
+0.7631578947368421
+
+seed
+ 1134434187
+win rate after 1000 rounds
+0.43343653250773995
+
+seed
+ 778092414
+win rate after 1000 rounds
+0.5115810674723061
+
+seed
+ 1356815859
+win rate after 1000 rounds
+0.4412997903563941
+
+seed
+ 649584694
+win rate after 1000 rounds
+0.49841938883034775
+
+seed
+ 1871320520
+win rate after 1000 rounds
+0.6987951807228916
+
+seed
+ 281053402
+win rate after 1000 rounds
+0.19831223628691982
+
+seed
+ 734663067
+win rate after 1000 rounds
+0.4897750511247444
+
+seed
+ 1598521066
+win rate after 1000 rounds
+0.7161572052401747
+
+seed
+ 988856178
+win rate after 1000 rounds
+0.3962460896767466
+
+seed
+ 2115703048
+win rate after 1000 rounds
+0.6812182741116751
+
+seed
+ 1692263595
+win rate after 1000 rounds
+0.6378737541528239
+
+seed
+ 1460022786
+win rate after 1000 rounds
+0.7677984665936474
+
+seed
+ 1153784883
+win rate after 1000 rounds
+0.5658747300215983
+
+seed
+ 1478704453
+win rate after 1000 rounds
+0.5214050493962679
+
+seed
+ 1829546855
+win rate after 1000 rounds
+0.4984552008238929
+
+seed
+ 475427758
+win rate after 1000 rounds
+0.4498956158663883
+
+seed
+ 717826435
+win rate after 1000 rounds
+0.6121758737316798
+
+seed
+ 469932079
+win rate after 1000 rounds
+0.44608879492600423
+
+seed
+ 31195650
+win rate after 1000 rounds
+0.6116402116402117
+
+seed
+ 1291709651
+win rate after 1000 rounds
+0.3458646616541353
+
+seed
+ 1544913981
+win rate after 1000 rounds
+0.3593073593073593
+
+seed
+ 329830173
+win rate after 1000 rounds
+0.42992623814541625
+
+seed
+ 958674770
+win rate after 1000 rounds
+0.47276688453159044
+
+seed
+ 1832608502
+win rate after 1000 rounds
+0.634020618556701
+
+seed
+ 1119345936
+win rate after 1000 rounds
+0.688659793814433
+
+seed
+ 642639740
+win rate after 1000 rounds
+0.683982683982684
+
+seed
+ 567455566
+win rate after 1000 rounds
+0.2012448132780083
+
+seed
+ 566847329
+win rate after 1000 rounds
+0.5854214123006833
+
+seed
+ 1985245101
+win rate after 1000 rounds
+0.8492146596858638
+
+seed
+ 2003460994
+win rate after 1000 rounds
+0.2671443193449335
+
+seed
+ 756890988
+win rate after 1000 rounds
+0.3895705521472393
+
+seed
+ 500205854
+win rate after 1000 rounds
+0.5438225976768744
+
+seed
+ 833204157
+win rate after 1000 rounds
+0.7767489711934157
+
+seed
+ 1081388422
+win rate after 1000 rounds
+0.7669404517453798
+
+seed
+ 693291956
+win rate after 1000 rounds
+0.5700218818380745
+
+seed
+ 186274054
+win rate after 1000 rounds
+0.46464646464646464
+
+seed
+ 1506416316
+win rate after 1000 rounds
+0.30761316872427985
+
+seed
+ 1972491594
+win rate after 1000 rounds
+0.4671772428884026
+
+seed
+ 1795249358
+win rate after 1000 rounds
+0.38986556359875907
+
+seed
+ 838407452
+win rate after 1000 rounds
+0.5138734739178691
+
+seed
+ 791463340
+win rate after 1000 rounds
+0.34826883910386963
+
+seed
+ 682624934
+win rate after 1000 rounds
+0.3883089770354906
+
+seed
+ 1470665795
+win rate after 1000 rounds
+0.6339869281045751
+
+seed
+ 1708106265
+win rate after 1000 rounds
+0.1960352422907489
+
+seed
+ 1971286121
+win rate after 1000 rounds
+0.7894190871369294
+
+seed
+ 791571546
+win rate after 1000 rounds
+0.2623294858342078
+
+seed
+ 2142707346
+win rate after 1000 rounds
+0.6040339702760085
+
+seed
+ 575333336
+win rate after 1000 rounds
+0.7145855194123819
+
+seed
+ 954851299
+win rate after 1000 rounds
+0.7001023541453428
+
+seed
+ 1772400955
+win rate after 1000 rounds
+0.5776595744680851
+
+seed
+ 69215091
+win rate after 1000 rounds
+0.6061855670103092
+
+seed
+ 183099078
+win rate after 1000 rounds
+0.4437299035369775
+
+seed
+ 1498098231
+win rate after 1000 rounds
+0.44288793103448276
+
+seed
+ 197846117
+win rate after 1000 rounds
+0.4224137931034483
+
+seed
+ 2112112406
+win rate after 1000 rounds
+0.8335158817086528
+
+seed
+ 968704832
+win rate after 1000 rounds
+0.4275653923541248
+
+seed
+ 251460914
+win rate after 1000 rounds
+0.48092485549132946
+
+seed
+ 1823690792
+win rate after 1000 rounds
+0.7151095732410612
+
+seed
+ 1553913998
+win rate after 1000 rounds
+0.5178777393310265
+
+seed
+ 620951183
+win rate after 1000 rounds
+0.3845350052246604
+
+seed
+ 23832179
+win rate after 1000 rounds
+0.3557394002068252
+
+seed
+ 1362101156
+win rate after 1000 rounds
+0.4723926380368098
+
+seed
+ 563086197
+win rate after 1000 rounds
+0.4756637168141593
+
+seed
+ 2028612410
+win rate after 1000 rounds
+0.4371643394199785
+
+seed
+ 40406677
+win rate after 1000 rounds
+0.7369020501138952
+
+seed
+ 1044677519
+win rate after 1000 rounds
+0.6655844155844156
+
+seed
+ 552152065
+win rate after 1000 rounds
+0.6405433646812957
+
+seed
+ 303787536
+win rate after 1000 rounds
+0.6590084643288996
+
+seed
+ 2050656957
+win rate after 1000 rounds
+0.39869989165763814
+
+seed
+ 1569515035
+win rate after 1000 rounds
+0.5042918454935622
+
+seed
+ 941513858
+win rate after 1000 rounds
+0.6938144329896907
+
+seed
+ 1860943087
+win rate after 1000 rounds
+0.6241970021413277
+
+seed
+ 740883324
+win rate after 1000 rounds
+0.559652928416486
+
+seed
+ 172185044
+win rate after 1000 rounds
+0.5750251762336355
+
+seed
+ 1029873331
+win rate after 1000 rounds
+0.7455121436114044
+
+seed
+ 2013989975
+win rate after 1000 rounds
+0.5665083135391924
+
+seed
+ 1155791942
+win rate after 1000 rounds
+0.366412213740458
+
+seed
+ 2114353757
+win rate after 1000 rounds
+0.5327210103329506
+
+seed
+ 227293512
+win rate after 1000 rounds
+0.6020408163265306
+
+seed
+ 434506450
+win rate after 1000 rounds
+0.8635416666666667
+
+seed
+ 1900133083
+win rate after 1000 rounds
+0.854602510460251
+
+seed
+ 314853274
+win rate after 1000 rounds
+0.42824074074074076
+
+seed
+ 1343033571
+win rate after 1000 rounds
+0.6071428571428571
+
+seed
+ 1684892534
+win rate after 1000 rounds
+0.7979274611398963
+
+seed
+ 42989647
+win rate after 1000 rounds
+0.34156820622986034
+
+seed
+ 58160804
+win rate after 1000 rounds
+0.7098765432098766
+
+seed
+ 1450037603
+win rate after 1000 rounds
+0.6670467502850627
+
+seed
+ 398592075
+win rate after 1000 rounds
+0.6051502145922747
+
+seed
+ 1503832658
+win rate after 1000 rounds
+0.28556263269639065
+
+seed
+ 1646291816
+win rate after 1000 rounds
+0.3147751605995717
+
+seed
+ 690657590
+win rate after 1000 rounds
+0.7242937853107345
+
+seed
+ 2056043657
+win rate after 1000 rounds
+0.41361256544502617
+
+seed
+ 97532910
+win rate after 1000 rounds
+0.6804932735426009
+
+seed
+ 1915496798
+win rate after 1000 rounds
+0.3884484711211778
+
+seed
+ 95777054
+win rate after 1000 rounds
+0.3411764705882353
+
+seed
+ 458475437
+win rate after 1000 rounds
+0.5708908406524467
+
+seed
+ 1089932126
+win rate after 1000 rounds
+0.5195876288659794
+
+seed
+ 1351441500
+win rate after 1000 rounds
+0.3751387347391787
+
+seed
+ 1344315671
+win rate after 1000 rounds
+0.5816554809843401
+
+seed
+ 1848443512
+win rate after 1000 rounds
+0.4566844919786096
+
+seed
+ 1247063890
+win rate after 1000 rounds
+0.33681765389082463
+
+seed
+ 554438923
+win rate after 1000 rounds
+0.6431718061674009
+
+seed
+ 1893029773
+win rate after 1000 rounds
+0.5131995776135164
+
+seed
+ 2092863221
+win rate after 1000 rounds
+0.3469387755102041
+
+seed
+ 1858878128
+win rate after 1000 rounds
+0.4957983193277311
+
+seed
+ 1544123161
+win rate after 1000 rounds
+0.4527918781725888
+
+seed
+ 1766511733
+win rate after 1000 rounds
+0.6593291404612159
+
+seed
+ 829306285
+win rate after 1000 rounds
+0.5423913043478261
+
+seed
+ 1095078617
+win rate after 1000 rounds
+0.6547085201793722
+
+seed
+ 574012968
+win rate after 1000 rounds
+0.3919372900335946
+
+seed
+ 1020116671
+win rate after 1000 rounds
+0.8359621451104101
+
+seed
+ 1974777263
+win rate after 1000 rounds
+0.40865892291446676
+
+seed
+ 2083930166
+win rate after 1000 rounds
+0.53596757852077
+
+seed
+ 801534688
+win rate after 1000 rounds
+0.6126315789473684
+
+seed
+ 1880291659
+win rate after 1000 rounds
+0.8207043756670224
+
+seed
+ 1642756563
+win rate after 1000 rounds
+0.6938559322033898
+
+seed
+ 560882242
+win rate after 1000 rounds
+0.6413301662707839
+
+seed
+ 1771482140
+win rate after 1000 rounds
+0.5917948717948718
+
+seed
+ 1957334765
+win rate after 1000 rounds
+0.7245119305856833
+
+seed
+ 1407275910
+win rate after 1000 rounds
+0.6466257668711657
+
+seed
+ 1113686139
+win rate after 1000 rounds
+0.6708333333333333
+
+seed
+ 1423516618
+win rate after 1000 rounds
+0.5218295218295218
+
+seed
+ 1602867851
+win rate after 1000 rounds
+0.49379932356257045
+
+seed
+ 1583544794
+win rate after 1000 rounds
+0.5448717948717948
+
+seed
+ 593707042
+win rate after 1000 rounds
+0.477124183006536
+
+seed
+ 1314048486
+win rate after 1000 rounds
+0.3570701932858596
+
+seed
+ 1484891084
+win rate after 1000 rounds
+0.5945121951219512
+
+seed
+ 964572943
+win rate after 1000 rounds
+0.6433408577878104
+
+seed
+ 1990696188
+win rate after 1000 rounds
+0.4807017543859649
+
+seed
+ 1102310486
+win rate after 1000 rounds
+0.6755888650963597
+
+seed
+ 181988455
+win rate after 1000 rounds
+0.6358811040339702
+
+seed
+ 828254250
+win rate after 1000 rounds
+0.8528784648187633
+
+seed
+ 256959171
+win rate after 1000 rounds
+0.8147321428571429
+
+seed
+ 118029151
+win rate after 1000 rounds
+0.5879059350503919
+
+seed
+ 265393901
+win rate after 1000 rounds
+0.7893617021276595
+
+seed
+ 923862682
+win rate after 1000 rounds
+0.4269911504424779
+
+seed
+ 222623555
+win rate after 1000 rounds
+0.22722283205268934
+
+seed
+ 1496560860
+win rate after 1000 rounds
+0.3923497267759563
+
+seed
+ 1577982418
+win rate after 1000 rounds
+0.23535457348406988
+
+seed
+ 2096763408
+win rate after 1000 rounds
+0.6975505857294995
+
+seed
+ 1195673450
+win rate after 1000 rounds
+0.4170403587443946
+
+seed
+ 1422018259
+win rate after 1000 rounds
+0.6732161323681489
+
+seed
+ 1728242760
+win rate after 1000 rounds
+0.6152980877390326
+
+seed
+ 1057485255
+win rate after 1000 rounds
+0.23210412147505424
+
+seed
+ 265080336
+win rate after 1000 rounds
+0.8089033659066233
+
+seed
+ 1147276192
+win rate after 1000 rounds
+0.664367816091954
+
+seed
+ 708702098
+win rate after 1000 rounds
+0.843558282208589
+
+seed
+ 518286012
+win rate after 1000 rounds
+0.868448098663926
+
+seed
+ 1822236011
+win rate after 1000 rounds
+0.7178423236514523
+
+seed
+ 1676317201
+win rate after 1000 rounds
+0.48615725359911405
+
+seed
+ 1591431380
+win rate after 1000 rounds
+0.8223404255319149
+
+seed
+ 1042843910
+win rate after 1000 rounds
+0.5550891920251836
+
+seed
+ 939925853
+win rate after 1000 rounds
+0.5057077625570776
+
+seed
+ 1246104350
+win rate after 1000 rounds
+0.7951680672268907
+
+seed
+ 916840673
+win rate after 1000 rounds
+0.4869762174405436
+
+seed
+ 38397570
+win rate after 1000 rounds
+0.6680080482897385
+
+seed
+ 488679438
+win rate after 1000 rounds
+0.6782006920415224
+
+seed
+ 1356521668
+win rate after 1000 rounds
+0.6680455015511892
+
+seed
+ 608794889
+win rate after 1000 rounds
+0.6918103448275862
+
+seed
+ 1178266017
+win rate after 1000 rounds
+0.7546549835706462
+
+seed
+ 1584322792
+win rate after 1000 rounds
+0.348643006263048
+
+seed
+ 934444344
+win rate after 1000 rounds
+0.5755939524838013
+
+seed
+ 1284036392
+win rate after 1000 rounds
+0.484375
+
+seed
+ 1965964240
+win rate after 1000 rounds
+0.6914778856526429
+
+seed
+ 1875205247
+win rate after 1000 rounds
+0.45164835164835165
+
+seed
+ 1549154877
+win rate after 1000 rounds
+0.3891726251276813
+
+seed
+ 2065724648
+win rate after 1000 rounds
+0.6579572446555819
+
+seed
+ 337458962
+win rate after 1000 rounds
+0.4270941054808687
+
+seed
+ 725537671
+win rate after 1000 rounds
+0.6589057043073341
+
+seed
+ 179808952
+win rate after 1000 rounds
+0.35460122699386504
+
+seed
+ 759835897
+win rate after 1000 rounds
+0.37160751565762007
+
+seed
+ 2117153819
+win rate after 1000 rounds
+0.6030534351145038
+
+seed
+ 1326417524
+win rate after 1000 rounds
+0.7567567567567568
+
+seed
+ 407629364
+win rate after 1000 rounds
+0.4551083591331269
+
+seed
+ 1143942117
+win rate after 1000 rounds
+0.5442522889114955
+
+seed
+ 733437110
+win rate after 1000 rounds
+0.42110655737704916
+
+seed
+ 274791579
+win rate after 1000 rounds
+0.6484375
+
+seed
+ 67992589
+win rate after 1000 rounds
+0.6243550051599587
+
+seed
+ 1527726300
+win rate after 1000 rounds
+0.6062753036437247
+
+seed
+ 1629679970
+win rate after 1000 rounds
+0.4503239740820734
+
+seed
+ 1201752191
+win rate after 1000 rounds
+0.47489082969432317
+
+seed
+ 1233727757
+win rate after 1000 rounds
+0.4438202247191011
+
+seed
+ 2064345961
+win rate after 1000 rounds
+0.789247311827957
+
+seed
+ 400121564
+win rate after 1000 rounds
+0.20579110651499483
+
+seed
+ 1660659571
+win rate after 1000 rounds
+0.4696969696969697
+
+seed
+ 1517078942
+win rate after 1000 rounds
+0.686965811965812
+
+seed
+ 1568793676
+win rate after 1000 rounds
+0.5967741935483871
+
+seed
+ 1274741857
+win rate after 1000 rounds
+0.5709844559585492
+
+seed
+ 957620188
+win rate after 1000 rounds
+0.5682326621923938
+
+seed
+ 293352185
+win rate after 1000 rounds
+0.5856410256410256
+
+seed
+ 1700648505
+win rate after 1000 rounds
+0.744131455399061
+
+seed
+ 1179105291
+win rate after 1000 rounds
+0.5361380798274002
+
+seed
+ 1538595102
+win rate after 1000 rounds
+0.41718426501035194
+
+seed
+ 1197161373
+win rate after 1000 rounds
+0.500544069640914
+
+seed
+ 2015051395
+win rate after 1000 rounds
+0.37659574468085105
+
+seed
+ 717795920
+win rate after 1000 rounds
+0.4074074074074074
+
+seed
+ 977199080
+win rate after 1000 rounds
+0.7807652533609101
+
+seed
+ 1599818069
+win rate after 1000 rounds
+0.5664251207729468
+
+seed
+ 989130143
+win rate after 1000 rounds
+0.40652173913043477
+
+seed
+ 1494452548
+win rate after 1000 rounds
+0.6426264800861141
+
+seed
+ 894705298
+win rate after 1000 rounds
+0.5301724137931034
+
+seed
+ 267193740
+win rate after 1000 rounds
+0.6081808396124866
+
+seed
+ 1555086978
+win rate after 1000 rounds
+0.6300114547537228
+
+seed
+ 1705973228
+win rate after 1000 rounds
+0.4778660612939841
+
+seed
+ 1520426632
+win rate after 1000 rounds
+0.774364406779661
+
+seed
+ 850274415
+win rate after 1000 rounds
+0.37872340425531914
+
+seed
+ 1989298646
+win rate after 1000 rounds
+0.30752688172043013
+
+seed
+ 1410861832
+win rate after 1000 rounds
+0.683076923076923
+
+seed
+ 511638157
+win rate after 1000 rounds
+0.5635245901639344
+
+seed
+ 1034045592
+win rate after 1000 rounds
+0.6932773109243697
+
+seed
+ 1645374728
+win rate after 1000 rounds
+0.4164882226980728
+
+seed
+ 1923167235
+win rate after 1000 rounds
+0.5598290598290598
+
+seed
+ 675780226
+win rate after 1000 rounds
+0.659206510681587
+
+seed
+ 1316336021
+win rate after 1000 rounds
+0.46129374337221635
+
+seed
+ 109934180
+win rate after 1000 rounds
+0.6337448559670782
+
+seed
+ 946835556
+win rate after 1000 rounds
+0.6708994708994709
+
+seed
+ 603456031
+win rate after 1000 rounds
+0.5617283950617284
+
+seed
+ 1815257609
+win rate after 1000 rounds
+0.7442116868798236
+
+seed
+ 784825742
+win rate after 1000 rounds
+0.7130801687763713
+
+seed
+ 139493207
+win rate after 1000 rounds
+0.6852046169989506
+
+seed
+ 329488568
+win rate after 1000 rounds
+0.7713097713097713
+
+seed
+ 432325626
+win rate after 1000 rounds
+0.5787815126050421
+
+seed
+ 1052595726
+win rate after 1000 rounds
+0.2848297213622291
+
+seed
+ 273989027
+win rate after 1000 rounds
+0.7609603340292276
+
+seed
+ 2018096179
+win rate after 1000 rounds
+0.7690700104493208
+
+seed
+ 1054211389
+win rate after 1000 rounds
+0.5840336134453782
+
+seed
+ 170020090
+win rate after 1000 rounds
+0.7111913357400722
+
+seed
+ 1975646474
+win rate after 1000 rounds
+0.5413687436159347
+
+seed
+ 335691626
+win rate after 1000 rounds
+0.5790554414784395
+
+seed
+ 501249872
+win rate after 1000 rounds
+0.6282722513089005
+
+seed
+ 1580854595
+win rate after 1000 rounds
+0.3325581395348837
+
+seed
+ 2074362384
+win rate after 1000 rounds
+0.7661748013620885
+
+seed
+ 575887662
+win rate after 1000 rounds
+0.6345549738219896
+
+seed
+ 1690490552
+win rate after 1000 rounds
+0.41938883034773444
+
+seed
+ 836200103
+win rate after 1000 rounds
+0.7132196162046909
+
+seed
+ 148273121
+win rate after 1000 rounds
+0.5963791267305645
+
+seed
+ 142646498
+win rate after 1000 rounds
+0.6910994764397905
+
+seed
+ 109701320
+win rate after 1000 rounds
+0.7875536480686696
+
+seed
+ 1865164765
+win rate after 1000 rounds
+0.5246913580246914
+
+seed
+ 1929914544
+win rate after 1000 rounds
+0.6083418107833164
+
+seed
+ 624751003
+win rate after 1000 rounds
+0.41145281018027574
+
+seed
+ 731564536
+win rate after 1000 rounds
+0.6853546910755148
+
+seed
+ 1919384285
+win rate after 1000 rounds
+0.4027926960257787
+
+seed
+ 753859100
+win rate after 1000 rounds
+0.7061452513966481
+
+seed
+ 1269662227
+win rate after 1000 rounds
+0.6740914419695193
+
+seed
+ 1600874502
+win rate after 1000 rounds
+0.24896694214876033
+
+seed
+ 1369911084
+win rate after 1000 rounds
+0.6050955414012739
+
+seed
+ 1016044179
+win rate after 1000 rounds
+0.572928821470245
+
+seed
+ 1970833672
+win rate after 1000 rounds
+0.43257261410788383
+
+seed
+ 962949645
+win rate after 1000 rounds
+0.5192107995846313
+
+seed
+ 514558706
+win rate after 1000 rounds
+0.21338912133891214
+
+seed
+ 791524753
+win rate after 1000 rounds
+0.2819634703196347
+
+seed
+ 155806924
+win rate after 1000 rounds
+0.6833855799373041
+
+seed
+ 1550896329
+win rate after 1000 rounds
+0.6589403973509934
+
+seed
+ 2077829487
+win rate after 1000 rounds
+0.5312820512820513
+
+seed
+ 1153301353
+win rate after 1000 rounds
+0.5395033860045146
+
+seed
+ 1570295799
+win rate after 1000 rounds
+0.5726315789473684
+
+seed
+ 1762171072
+win rate after 1000 rounds
+0.5531215772179627
+
+seed
+ 232125181
+win rate after 1000 rounds
+0.31551362683438156
+
+seed
+ 24771998
+win rate after 1000 rounds
+0.7424568965517241
+
+seed
+ 686461098
+win rate after 1000 rounds
+0.7774420946626385
+
+seed
+ 1695095116
+win rate after 1000 rounds
+0.9226069246435845
+
+seed
+ 750894044
+win rate after 1000 rounds
+0.41361256544502617
+
+seed
+ 2098671903
+win rate after 1000 rounds
+0.5498199279711885
+
+seed
+ 1932069615
+win rate after 1000 rounds
+0.4423913043478261
+
+seed
+ 105611869
+win rate after 1000 rounds
+0.5907590759075908
+
+seed
+ 1594158651
+win rate after 1000 rounds
+0.6375
+
+seed
+ 1809131020
+win rate after 1000 rounds
+0.8484231943031536
+
+seed
+ 641333595
+win rate after 1000 rounds
+0.6368715083798883
+
+seed
+ 101775886
+win rate after 1000 rounds
+0.2827868852459016
+
+seed
+ 1139702688
+win rate after 1000 rounds
+0.6106471816283925
+
+seed
+ 2139965522
+win rate after 1000 rounds
+0.43275488069414314
+
+seed
+ 1325272592
+win rate after 1000 rounds
+0.648068669527897
+
+seed
+ 1305785293
+win rate after 1000 rounds
+0.5061349693251533
+
+seed
+ 1626514551
+win rate after 1000 rounds
+0.5567010309278351
+
+seed
+ 149811058
+win rate after 1000 rounds
+0.19122257053291536
+
+seed
+ 488929573
+win rate after 1000 rounds
+0.5668257756563246
+
+seed
+ 1972919138
+win rate after 1000 rounds
+0.6873614190687362
+
+seed
+ 2093651896
+win rate after 1000 rounds
+0.31218014329580346
+
+seed
+ 1195367708
+win rate after 1000 rounds
+0.7457627118644068
+
+seed
+ 945779672
+win rate after 1000 rounds
+0.3788187372708758
+
+seed
+ 434898444
+win rate after 1000 rounds
+0.5598669623059866
+
+seed
+ 641312127
+win rate after 1000 rounds
+0.43502202643171806
+
+seed
+ 484455310
+win rate after 1000 rounds
+0.27571115973741794
+
+seed
+ 1866660556
+win rate after 1000 rounds
+0.7704026115342764
+
+seed
+ 1524527781
+win rate after 1000 rounds
+0.7200832466181062
+
+seed
+ 1521457461
+win rate after 1000 rounds
+0.34557235421166305
+
+seed
+ 83577971
+win rate after 1000 rounds
+0.360529217199559
+
+seed
+ 889087805
+win rate after 1000 rounds
+0.5221238938053098
+
+seed
+ 644911327
+win rate after 1000 rounds
+0.31140350877192985
+
+seed
+ 75581741
+win rate after 1000 rounds
+0.6986721144024515
+
+seed
+ 851498489
+win rate after 1000 rounds
+0.5072815533980582
+
+seed
+ 1829650040
+win rate after 1000 rounds
+0.40124740124740127
+
+seed
+ 1964271466
+win rate after 1000 rounds
+0.36858638743455496
+
+seed
+ 1143291696
+win rate after 1000 rounds
+0.36373056994818653
+
+seed
+ 2074652718
+win rate after 1000 rounds
+0.3955461293743372
+
+seed
+ 2051250634
+win rate after 1000 rounds
+0.4274193548387097
+
+seed
+ 1463667622
+win rate after 1000 rounds
+0.45424476295479604
+
+seed
+ 667944850
+win rate after 1000 rounds
+0.5888888888888889
+
+seed
+ 595681815
+win rate after 1000 rounds
+0.7025380710659899
+
+seed
+ 548718957
+win rate after 1000 rounds
+0.8302845528455285
+
+seed
+ 1902558096
+win rate after 1000 rounds
+0.8201284796573876
+
+seed
+ 204188405
+win rate after 1000 rounds
+0.7946611909650924
+
+seed
+ 1940178178
+win rate after 1000 rounds
+0.4670846394984326
+
+seed
+ 1660883808
+win rate after 1000 rounds
+0.17709437963944857
+
+seed
+ 1509109357
+win rate after 1000 rounds
+0.5706462212486308
+
+seed
+ 1918109745
+win rate after 1000 rounds
+0.8300104931794333
+
+seed
+ 484626223
+win rate after 1000 rounds
+0.7901364113326338
+
+seed
+ 1673857507
+win rate after 1000 rounds
+0.39565217391304347
+
+seed
+ 527790938
+win rate after 1000 rounds
+0.3166144200626959
+
+seed
+ 1684529053
+win rate after 1000 rounds
+0.5182795698924731
+
+seed
+ 1372594053
+win rate after 1000 rounds
+0.6715481171548117
+
+seed
+ 544133869
+win rate after 1000 rounds
+0.8383733055265902
+
+seed
+ 573241305
+win rate after 1000 rounds
+0.6016597510373444
+
+seed
+ 925236961
+win rate after 1000 rounds
+0.6724537037037037
+
+seed
+ 1490081875
+win rate after 1000 rounds
+0.5907127429805615
+
+seed
+ 1063163990
+win rate after 1000 rounds
+0.5482717520858165
+
+seed
+ 988540539
+win rate after 1000 rounds
+0.37927461139896373
+
+seed
+ 794643651
+win rate after 1000 rounds
+0.8338557993730408
+
+seed
+ 723410115
+win rate after 1000 rounds
+0.7997835497835498
+
+seed
+ 2103590144
+win rate after 1000 rounds
+0.44908350305498984
+
+seed
+ 1443904856
+win rate after 1000 rounds
+0.9026369168356998
+
+seed
+ 586867217
+win rate after 1000 rounds
+0.7738478027867095
+
+seed
+ 1568556590
+win rate after 1000 rounds
+0.6304801670146137
+
+seed
+ 1866557853
+win rate after 1000 rounds
+0.48156182212581344
+
+seed
+ 2108004416
+win rate after 1000 rounds
+0.2227027027027027
+
+seed
+ 868694241
+win rate after 1000 rounds
+0.5734190782422294
+
+seed
+ 251403611
+win rate after 1000 rounds
+0.5526036131774708
+
+seed
+ 396397039
+win rate after 1000 rounds
+0.6732558139534883
+
+seed
+ 764044282
+win rate after 1000 rounds
+0.710789766407119
+
+seed
+ 1380516201
+win rate after 1000 rounds
+0.6088328075709779
+
+seed
+ 1737147028
+win rate after 1000 rounds
+0.684375
+
+seed
+ 63003092
+win rate after 1000 rounds
+0.7878787878787878
+
+seed
+ 25789880
+win rate after 1000 rounds
+0.6924643584521385
+
+seed
+ 959187469
+win rate after 1000 rounds
+0.6565315315315315
+
+seed
+ 1373155369
+win rate after 1000 rounds
+0.5197505197505198
+
+seed
+ 1926222538
+win rate after 1000 rounds
+0.5305498981670062
+
+seed
+ 2059661122
+win rate after 1000 rounds
+0.782608695652174
+
+seed
+ 43198226
+win rate after 1000 rounds
+0.32020725388601035
+
+seed
+ 1895644930
+win rate after 1000 rounds
+0.7049009384775808
+
+seed
+ 546951987
+win rate after 1000 rounds
+0.6079484425349087
+
+seed
+ 199814934
+win rate after 1000 rounds
+0.37794432548179874
+
+seed
+ 1702114943
+win rate after 1000 rounds
+0.6079836233367452
+
+seed
+ 360433765
+win rate after 1000 rounds
+0.7177848775292864
+
+seed
+ 805128132
+win rate after 1000 rounds
+0.6690573770491803
+
+seed
+ 306778332
+win rate after 1000 rounds
+0.6863157894736842
+
+seed
+ 523416170
+win rate after 1000 rounds
+0.43498273878020716
+
+seed
+ 1516144466
+win rate after 1000 rounds
+0.46540880503144655
+
+seed
+ 932145637
+win rate after 1000 rounds
+0.7699316628701595
+
+seed
+ 1314713675
+win rate after 1000 rounds
+0.4178010471204188
+
+seed
+ 1587355514
+win rate after 1000 rounds
+0.573449401523395
+
+seed
+ 170350406
+win rate after 1000 rounds
+0.6905829596412556
+
+seed
+ 1587568735
+win rate after 1000 rounds
+0.3356926188068756
+
+seed
+ 690523856
+win rate after 1000 rounds
+0.5531475748194015
+
+seed
+ 790201035
+win rate after 1000 rounds
+0.6374589266155531
+
+seed
+ 1482906570
+win rate after 1000 rounds
+0.4790547798066595
+
+seed
+ 1008196110
+win rate after 1000 rounds
+0.6171079429735234
+
+seed
+ 566185760
+win rate after 1000 rounds
+0.4581066376496192
+
+seed
+ 1448324005
+win rate after 1000 rounds
+0.3103448275862069
+
+seed
+ 962390469
+win rate after 1000 rounds
+0.7260556127703398
+
+seed
+ 286603667
+win rate after 1000 rounds
+0.41658031088082903
+
+seed
+ 602167908
+win rate after 1000 rounds
+0.5257393209200438
+
+seed
+ 651072714
+win rate after 1000 rounds
+0.3386243386243386
+
+seed
+ 1188082207
+win rate after 1000 rounds
+0.289532293986637
+
+seed
+ 599821732
+win rate after 1000 rounds
+0.2740899357601713
+
+seed
+ 1557712744
+win rate after 1000 rounds
+0.46183699870633893
+
+seed
+ 749251462
+win rate after 1000 rounds
+0.6919739696312365
+
+seed
+ 1717554129
+win rate after 1000 rounds
+0.809375
+
+seed
+ 91410262
+win rate after 1000 rounds
+0.6357827476038339
+
+seed
+ 580386861
+win rate after 1000 rounds
+0.6551326412918108
+
+seed
+ 2059595078
+win rate after 1000 rounds
+0.6248715313463515
+
+seed
+ 1135565676
+win rate after 1000 rounds
+0.428078250863061
+
+seed
+ 178780344
+win rate after 1000 rounds
+0.21068859198355602
+
+seed
+ 206737383
+win rate after 1000 rounds
+0.44072948328267475
+
+seed
+ 1239011027
+win rate after 1000 rounds
+0.6820987654320988
+
+seed
+ 960248531
+win rate after 1000 rounds
+0.6119733924611973
+
+seed
+ 1015472675
+win rate after 1000 rounds
+0.38070539419087135
+
+seed
+ 885140310
+win rate after 1000 rounds
+0.3450854700854701
+
+seed
+ 1076480148
+win rate after 1000 rounds
+0.6973140495867769
+
+seed
+ 2105763971
+win rate after 1000 rounds
+0.5706967213114754
+
+seed
+ 1212837178
+win rate after 1000 rounds
+0.7153284671532847
+
+seed
+ 777632631
+win rate after 1000 rounds
+0.5221621621621622
+
+seed
+ 175986148
+win rate after 1000 rounds
+0.6002227171492205
+
+seed
+ 1746339120
+win rate after 1000 rounds
+0.6543589743589744
+
+seed
+ 1554307391
+win rate after 1000 rounds
+0.6900826446280992
+
+seed
+ 280799529
+win rate after 1000 rounds
+0.8345323741007195
+
+seed
+ 846166487
+win rate after 1000 rounds
+0.1875
+
+seed
+ 1004665236
+win rate after 1000 rounds
+0.7242105263157895
+
+seed
+ 2050485408
+win rate after 1000 rounds
+0.6973415132924335
+
+seed
+ 1576787128
+win rate after 1000 rounds
+0.5140771637122002
+
+seed
+ 1052938621
+win rate after 1000 rounds
+0.6655251141552512
+
+seed
+ 562922126
+win rate after 1000 rounds
+0.37130801687763715
+
+seed
+ 1980124514
+win rate after 1000 rounds
+0.7586206896551724
+
+seed
+ 1909973928
+win rate after 1000 rounds
+0.6909492273730684
+
+seed
+ 604237362
+win rate after 1000 rounds
+0.4522019334049409
+
+seed
+ 1909234364
+win rate after 1000 rounds
+0.7782656421514819
+
+seed
+ 241431599
+win rate after 1000 rounds
+0.4782122905027933
+
+seed
+ 430919608
+win rate after 1000 rounds
+0.33872707659115425
+
+seed
+ 1151003797
+win rate after 1000 rounds
+0.7089151450053706
+
+seed
+ 1203114238
+win rate after 1000 rounds
+0.5460385438972163
+
+seed
+ 1527540125
+win rate after 1000 rounds
+0.4931506849315068
+
+seed
+ 836600679
+win rate after 1000 rounds
+0.49691358024691357
+
+seed
+ 1189464414
+win rate after 1000 rounds
+0.6143308746048473
+
+seed
+ 579087256
+win rate after 1000 rounds
+0.7622950819672131
+
+seed
+ 885229557
+win rate after 1000 rounds
+0.7396061269146609
+
+seed
+ 1197283824
+win rate after 1000 rounds
+0.6101871101871101
+
+seed
+ 17495600
+win rate after 1000 rounds
+0.28886554621848737
+
+seed
+ 1648125087
+win rate after 1000 rounds
+0.5332555425904317
+
+seed
+ 1876908349
+win rate after 1000 rounds
+0.5078407720144753
+
+seed
+ 1132201409
+win rate after 1000 rounds
+0.5158469945355191
+
+seed
+ 507221087
+win rate after 1000 rounds
+0.4437564499484004
+
+seed
+ 1685866640
+win rate after 1000 rounds
+0.807897545357524
+
+seed
+ 961050696
+win rate after 1000 rounds
+0.7317574511819116
+
+seed
+ 466516394
+win rate after 1000 rounds
+0.5138297872340426
+
+seed
+ 1714306989
+win rate after 1000 rounds
+0.5467928496319664
+
+seed
+ 1092804622
+win rate after 1000 rounds
+0.6731757451181911
+
+seed
+ 1111153563
+win rate after 1000 rounds
+0.6725941422594143
+
+seed
+ 728496352
+win rate after 1000 rounds
+0.3415492957746479
+
+seed
+ 1925052945
+win rate after 1000 rounds
+0.7125256673511293
+
+seed
+ 1937806135
+win rate after 1000 rounds
+0.4913232104121475
+
+seed
+ 1182088585
+win rate after 1000 rounds
+0.5993340732519423
+
+seed
+ 967427179
+win rate after 1000 rounds
+0.7364341085271318
+
+seed
+ 798085637
+win rate after 1000 rounds
+0.7280799112097669
+
+seed
+ 1689623764
+win rate after 1000 rounds
+0.4644870349492672
+
+seed
+ 1300959073
+win rate after 1000 rounds
+0.7379239465570401
+
+seed
+ 1207332625
+win rate after 1000 rounds
+0.7703549060542797
+
+seed
+ 71778058
+win rate after 1000 rounds
+0.5387931034482759
+
+seed
+ 805059781
+win rate after 1000 rounds
+0.4949381327334083
+
+seed
+ 1857330486
+win rate after 1000 rounds
+0.7951933124346917
+
+seed
+ 2060956444
+win rate after 1000 rounds
+0.7857889237199582
+
+seed
+ 1127589704
+win rate after 1000 rounds
+0.796086508753862
+
+seed
+ 998325944
+win rate after 1000 rounds
+0.4715447154471545
+
+seed
+ 1938414290
+win rate after 1000 rounds
+0.7933884297520661
+
+seed
+ 579099698
+win rate after 1000 rounds
+0.46595744680851064
+
+seed
+ 34381837
+win rate after 1000 rounds
+0.8233404710920771
+
+seed
+ 1368442993
+win rate after 1000 rounds
+0.5706401766004415
+
+seed
+ 1089111483
+win rate after 1000 rounds
+0.3398963730569948
+
+seed
+ 802864088
+win rate after 1000 rounds
+0.5977142857142858
+
+seed
+ 1466749961
+win rate after 1000 rounds
+0.5544217687074829
+
+seed
+ 1758901147
+win rate after 1000 rounds
+0.31699346405228757
+
+seed
+ 1190326491
+win rate after 1000 rounds
+0.6366906474820144
+
+seed
+ 1116923832
+win rate after 1000 rounds
+0.7944785276073619
+
+seed
+ 1414744678
+win rate after 1000 rounds
+0.4581005586592179
+
+seed
+ 1543344158
+win rate after 1000 rounds
+0.4023732470334412
+
+seed
+ 654191895
+win rate after 1000 rounds
+0.4582043343653251
+
+seed
+ 73388555
+win rate after 1000 rounds
+0.6016073478760046
+
+seed
+ 1166412540
+win rate after 1000 rounds
+0.6368312757201646
+
+seed
+ 903013558
+win rate after 1000 rounds
+0.5420673076923077
+
+seed
+ 62190007
+win rate after 1000 rounds
+0.5681318681318681
+
+seed
+ 1678384090
+win rate after 1000 rounds
+0.5622171945701357
+
+seed
+ 252845359
+win rate after 1000 rounds
+0.6312649164677804
+
+seed
+ 1539228573
+win rate after 1000 rounds
+0.6649797570850202
+
+seed
+ 837594769
+win rate after 1000 rounds
+0.3917525773195876
+
+seed
+ 140773672
+win rate after 1000 rounds
+0.676595744680851
+
+seed
+ 135275105
+win rate after 1000 rounds
+0.2748244734202608
+
+seed
+ 1144450590
+win rate after 1000 rounds
+0.37422680412371134
+
+seed
+ 692109984
+win rate after 1000 rounds
+0.5220966084275437
+
+seed
+ 248047516
+win rate after 1000 rounds
+0.5218417945690673
+
+seed
+ 901501200
+win rate after 1000 rounds
+0.40581395348837207
+
+seed
+ 887718645
+win rate after 1000 rounds
+0.19670442842430483
+
+seed
+ 716101016
+win rate after 1000 rounds
+0.715605749486653
+
+seed
+ 745475880
+win rate after 1000 rounds
+0.7113289760348583
+
+seed
+ 3861931
+win rate after 1000 rounds
+0.7212389380530974
+
+seed
+ 69324939
+win rate after 1000 rounds
+0.4816414686825054
+
+seed
+ 1416043628
+win rate after 1000 rounds
+0.5502092050209205
+
+seed
+ 1985206038
+win rate after 1000 rounds
+0.4953596287703016
+
+seed
+ 815247965
+win rate after 1000 rounds
+0.5898760330578512
+
+seed
+ 1179416171
+win rate after 1000 rounds
+0.30959752321981426
+
+seed
+ 1080554823
+win rate after 1000 rounds
+0.5771812080536913
+
+seed
+ 1581134238
+win rate after 1000 rounds
+0.5349544072948328
+
+seed
+ 92829016
+win rate after 1000 rounds
+0.3607305936073059
+
+seed
+ 801532028
+win rate after 1000 rounds
+0.5731958762886598
+
+seed
+ 100156220
+win rate after 1000 rounds
+0.8489583333333334
+
+seed
+ 1128310062
+win rate after 1000 rounds
+0.45087900723888313
+
+seed
+ 1128942015
+win rate after 1000 rounds
+0.5855472901168969
+
+seed
+ 754208900
+win rate after 1000 rounds
+0.28480340063761955
+
+seed
+ 1635086551
+win rate after 1000 rounds
+0.5830753353973168
+
+seed
+ 1214148340
+win rate after 1000 rounds
+0.46637744034707157
+
+seed
+ 1591569226
+win rate after 1000 rounds
+0.6035049288061336
+
+seed
+ 1555692298
+win rate after 1000 rounds
+0.43829787234042555
+
+seed
+ 922283512
+win rate after 1000 rounds
+0.3518728717366629
+
+seed
+ 750300768
+win rate after 1000 rounds
+0.5704772475027747
+
+seed
+ 1854918838
+win rate after 1000 rounds
+0.6041884816753926
+
+seed
+ 650955676
+win rate after 1000 rounds
+0.41164021164021164
+
+seed
+ 71469580
+win rate after 1000 rounds
+0.3260416666666667
+
+seed
+ 392104919
+win rate after 1000 rounds
+0.6558861578266494
+
+seed
+ 1417346531
+win rate after 1000 rounds
+0.6219640971488912
+
+seed
+ 1498439044
+win rate after 1000 rounds
+0.7252619324796274
+
+seed
+ 1725375477
+win rate after 1000 rounds
+0.843298969072165
+
+seed
+ 193110256
+win rate after 1000 rounds
+0.6815440289505428
+
+seed
+ 1301556320
+win rate after 1000 rounds
+0.31390593047034765
+
+seed
+ 2123408154
+win rate after 1000 rounds
+0.7117008443908324
+
+seed
+ 1881527740
+win rate after 1000 rounds
+0.37697993664202745
+
+seed
+ 1907881291
+win rate after 1000 rounds
+0.7693121693121693
+
+seed
+ 1652246085
+win rate after 1000 rounds
+0.8351293103448276
+
+seed
+ 27357157
+win rate after 1000 rounds
+0.579849946409432
+
+seed
+ 339442793
+win rate after 1000 rounds
+0.7096774193548387
+
+seed
+ 771043484
+win rate after 1000 rounds
+0.5448648648648649
+
+seed
+ 920685112
+win rate after 1000 rounds
+0.4703389830508475
+
+seed
+ 426314435
+win rate after 1000 rounds
+0.47594142259414224
+
+seed
+ 2111302959
+win rate after 1000 rounds
+0.4677754677754678
+
+seed
+ 1406026013
+win rate after 1000 rounds
+0.5634249471458774
+
+seed
+ 29184637
+win rate after 1000 rounds
+0.48050579557428874
+
+seed
+ 1496142428
+win rate after 1000 rounds
+0.8293478260869566
+
+seed
+ 1794075498
+win rate after 1000 rounds
+0.6536842105263158
+
+seed
+ 1343838685
+win rate after 1000 rounds
+0.5314401622718052
+
+seed
+ 117095762
+win rate after 1000 rounds
+0.6530386740331492
+
+seed
+ 931680442
+win rate after 1000 rounds
+0.6586638830897703
+
+seed
+ 565717020
+win rate after 1000 rounds
+0.7892057026476579
+
+seed
+ 749180811
+win rate after 1000 rounds
+0.529718456725756
+
+seed
+ 1248181401
+win rate after 1000 rounds
+0.7258403361344538
+
+seed
+ 615515408
+win rate after 1000 rounds
+0.786833855799373
+
+seed
+ 1791205188
+win rate after 1000 rounds
+0.7314606741573034
+
+seed
+ 2105229906
+win rate after 1000 rounds
+0.6432318992654774
+
+seed
+ 2035693283
+win rate after 1000 rounds
+0.6330376940133038
+
+seed
+ 1401367066
+win rate after 1000 rounds
+0.5373781148429035
+
+seed
+ 589018112
+win rate after 1000 rounds
+0.638689866939611
+
+seed
+ 233282225
+win rate after 1000 rounds
+0.34591836734693876
+
+seed
+ 982393171
+win rate after 1000 rounds
+0.4584221748400853
+
+seed
+ 100403219
+win rate after 1000 rounds
+0.6246122026887281
+
+seed
+ 1484848619
+win rate after 1000 rounds
+0.49377593360995853
+
+seed
+ 2013427839
+win rate after 1000 rounds
+0.3534278959810875
+
+seed
+ 947055838
+win rate after 1000 rounds
+0.4933920704845815
+
+seed
+ 95208570
+win rate after 1000 rounds
+0.32659574468085106
+
+seed
+ 1467825681
+win rate after 1000 rounds
+0.6783691959229898
+
+seed
+ 786442704
+win rate after 1000 rounds
+0.5718816067653277
+
+seed
+ 812724308
+win rate after 1000 rounds
+0.6939655172413793
+
+seed
+ 971248864
+win rate after 1000 rounds
+0.670514165792235
+
+seed
+ 816757732
+win rate after 1000 rounds
+0.5329545454545455
+
+seed
+ 893160236
+win rate after 1000 rounds
+0.3919652551574376
+
+seed
+ 603742231
+win rate after 1000 rounds
+0.3831376734258271
+
+seed
+ 249690576
+win rate after 1000 rounds
+0.828365878725591
+
+seed
+ 814054169
+win rate after 1000 rounds
+0.41067285382830626
+
+seed
+ 2053289962
+win rate after 1000 rounds
+0.477751756440281
+
+seed
+ 365972860
+win rate after 1000 rounds
+0.751863684771033
+
+seed
+ 744570342
+win rate after 1000 rounds
+0.3704474505723205
+
+seed
+ 1736719026
+win rate after 1000 rounds
+0.5626373626373626
+
+seed
+ 929604559
+win rate after 1000 rounds
+0.7417355371900827
+
+seed
+ 2113605942
+win rate after 1000 rounds
+0.49122807017543857
+
+seed
+ 997543465
+win rate after 1000 rounds
+0.5213764337851929
+
+seed
+ 2064691113
+win rate after 1000 rounds
+0.5802752293577982
+
+seed
+ 1219954871
+win rate after 1000 rounds
+0.511500547645126
+
+seed
+ 1047130760
+win rate after 1000 rounds
+0.6659551760939167
+
+seed
+ 418814986
+win rate after 1000 rounds
+0.4750542299349241
+
+seed
+ 1692738592
+win rate after 1000 rounds
+0.26652675760755506
+
+seed
+ 833073596
+win rate after 1000 rounds
+0.49829351535836175
+
+seed
+ 55174974
+win rate after 1000 rounds
+0.7400204708290685
+
+seed
+ 836537188
+win rate after 1000 rounds
+0.3769309989701339
+
+seed
+ 226828663
+win rate after 1000 rounds
+0.7725409836065574
+
+seed
+ 1484929356
+win rate after 1000 rounds
+0.3470873786407767
+
+seed
+ 2015391619
+win rate after 1000 rounds
+0.6646706586826348
+
+seed
+ 1846231958
+win rate after 1000 rounds
+0.6624068157614483
+
+seed
+ 399074246
+win rate after 1000 rounds
+0.5413943355119826
+
+seed
+ 1565297815
+win rate after 1000 rounds
+0.545929018789144
+
+seed
+ 1670610116
+win rate after 1000 rounds
+0.578443113772455
+
+seed
+ 1203667630
+win rate after 1000 rounds
+0.720510095642933
+
+seed
+ 1987883879
+win rate after 1000 rounds
+0.8038793103448276
+
+seed
+ 130391999
+win rate after 1000 rounds
+0.4916317991631799
+
+seed
+ 734474811
+win rate after 1000 rounds
+0.4537902388369678
+
+seed
+ 248241987
+win rate after 1000 rounds
+0.4807480748074808
+
+seed
+ 2094175790
+win rate after 1000 rounds
+0.2921225382932166
+
+seed
+ 2144296069
+win rate after 1000 rounds
+0.6072234762979684
+
+seed
+ 521425828
+win rate after 1000 rounds
+0.5386289445048966
+
+seed
+ 873448676
+win rate after 1000 rounds
+0.5735930735930735
+
+seed
+ 730257034
+win rate after 1000 rounds
+0.7907465825446898
+
+seed
+ 711639649
+win rate after 1000 rounds
+0.5020703933747412
+
+seed
+ 510757651
+win rate after 1000 rounds
+0.7929465301478953
+
+seed
+ 680624893
+win rate after 1000 rounds
+0.4320083682008368
+
+seed
+ 1132991037
+win rate after 1000 rounds
+0.7273695420660277
+
+seed
+ 312936880
+win rate after 1000 rounds
+0.6119402985074627
+
+seed
+ 1934351625
+win rate after 1000 rounds
+0.40608034744842564
+
+seed
+ 1701110609
+win rate after 1000 rounds
+0.5377574370709383
+
+seed
+ 837543950
+win rate after 1000 rounds
+0.6789862724392819
+
+seed
+ 1224336782
+win rate after 1000 rounds
+0.7156153050672182
+
+seed
+ 1832691544
+win rate after 1000 rounds
+0.6100427350427351
+
+seed
+ 1315040100
+win rate after 1000 rounds
+0.546524064171123
+
+seed
+ 1964903979
+win rate after 1000 rounds
+0.6614420062695925
+
+seed
+ 2055650895
+win rate after 1000 rounds
+0.7198124267291911
+
+seed
+ 155427497
+win rate after 1000 rounds
+0.5606995884773662
+
+seed
+ 2090257982
+win rate after 1000 rounds
+0.559074299634592
+
+seed
+ 978744555
+win rate after 1000 rounds
+0.38293216630196936
+
+seed
+ 1578470455
+win rate after 1000 rounds
+0.7879818594104309
+
+seed
+ 566259447
+win rate after 1000 rounds
+0.6611479028697572
+
+seed
+ 717508735
+win rate after 1000 rounds
+0.6270627062706271
+
+seed
+ 1635871274
+win rate after 1000 rounds
+0.46673387096774194
+
+seed
+ 1139114157
+win rate after 1000 rounds
+0.4953051643192488
+
+seed
+ 1114060344
+win rate after 1000 rounds
+0.5675965665236051
+
+seed
+ 1716372291
+win rate after 1000 rounds
+0.3994878361075544
+
+seed
+ 1545774713
+win rate after 1000 rounds
+0.5359801488833746
+
+seed
+ 1970074925
+win rate after 1000 rounds
+0.45042194092827004
+
+seed
+ 1726304854
+win rate after 1000 rounds
+0.5323076923076923
+
+seed
+ 1969449340
+win rate after 1000 rounds
+0.6677966101694915
+
+seed
+ 1804997543
+win rate after 1000 rounds
+0.6242568370986921
+
+seed
+ 400508604
+win rate after 1000 rounds
+0.5566239316239316
+
+seed
+ 742310378
+win rate after 1000 rounds
+0.42996742671009774
+
+seed
+ 242713360
+win rate after 1000 rounds
+0.7466110531803962
+
+seed
+ 472495812
+win rate after 1000 rounds
+0.6791208791208792
+
+seed
+ 756299551
+win rate after 1000 rounds
+0.23469387755102042
+
+seed
+ 724161299
+win rate after 1000 rounds
+0.7446351931330472
+
+seed
+ 407669493
+win rate after 1000 rounds
+0.5708333333333333
+
+seed
+ 756690342
+win rate after 1000 rounds
+0.24772497472194135
+
+seed
+ 890681569
+win rate after 1000 rounds
+0.7058823529411765
+
+seed
+ 1594712628
+win rate after 1000 rounds
+0.559447983014862
+
+seed
+ 158290086
+win rate after 1000 rounds
+0.6560509554140127
+
+seed
+ 2123416436
+win rate after 1000 rounds
+0.5540254237288136
+
+seed
+ 576741682
+win rate after 1000 rounds
+0.5812964930924548
+
+seed
+ 152072314
+win rate after 1000 rounds
+0.35025906735751294
+
+seed
+ 1955746947
+win rate after 1000 rounds
+0.46852425180598556
+
+seed
+ 149562727
+win rate after 1000 rounds
+0.3485005170630817
+
+seed
+ 262703017
+win rate after 1000 rounds
+0.5835030549898167
+
+seed
+ 85418348
+win rate after 1000 rounds
+0.6184486373165619
+
+seed
+ 323885241
+win rate after 1000 rounds
+0.6608996539792388
+
+seed
+ 1562951177
+win rate after 1000 rounds
+0.6640969162995595
+
+seed
+ 417514559
+win rate after 1000 rounds
+0.7308108108108108
+
+seed
+ 9485917
+win rate after 1000 rounds
+0.24536532170119957
+
+seed
+ 196434440
+win rate after 1000 rounds
+0.6611053180396246
+
+seed
+ 583575527
+win rate after 1000 rounds
+0.35251046025104604
+
+seed
+ 288384134
+win rate after 1000 rounds
+0.3588924387646432
+
+seed
+ 445129661
+win rate after 1000 rounds
+0.6937229437229437
+
+seed
+ 1792953568
+win rate after 1000 rounds
+0.7273652085452695
+
+seed
+ 1207960076
+win rate after 1000 rounds
+0.6731391585760518
+
+seed
+ 943643574
+win rate after 1000 rounds
+0.5897435897435898
+
+seed
+ 1978180794
+win rate after 1000 rounds
+0.4616252821670429
+
+seed
+ 2121272089
+win rate after 1000 rounds
+0.4171494785631518
+
+seed
+ 1418112545
+win rate after 1000 rounds
+0.4365256124721604
+
+seed
+ 1811323144
+win rate after 1000 rounds
+0.2845982142857143
+
+seed
+ 458801004
+win rate after 1000 rounds
+0.46006749156355453
+
+seed
+ 1468075407
+win rate after 1000 rounds
+0.8484231943031536
+
+seed
+ 1697016492
+win rate after 1000 rounds
+0.5967246673490276
+
+seed
+ 2041758047
+win rate after 1000 rounds
+0.3824451410658307
+
+seed
+ 1675428243
+win rate after 1000 rounds
+0.29197860962566846
+
+seed
+ 728666365
+win rate after 1000 rounds
+0.58
+
+seed
+ 1977408051
+win rate after 1000 rounds
+0.5907172995780591
+
+seed
+ 1295199696
+win rate after 1000 rounds
+0.7907725321888412
+
+seed
+ 486786641
+win rate after 1000 rounds
+0.6965226554267651
+
+seed
+ 1298425778
+win rate after 1000 rounds
+0.48329853862212946
+
+seed
+ 408710763
+win rate after 1000 rounds
+0.578125
+
+seed
+ 1014380122
+win rate after 1000 rounds
+0.515625
+
+seed
+ 862247403
+win rate after 1000 rounds
+0.5077559462254395
+
+seed
+ 2080837191
+win rate after 1000 rounds
+0.5652173913043478
+
+seed
+ 358657910
+win rate after 1000 rounds
+0.5750551876379691
+
+seed
+ 926145588
+win rate after 1000 rounds
+0.673773987206823
+
+seed
+ 558946112
+win rate after 1000 rounds
+0.693158953722334
+
+seed
+ 1299324885
+win rate after 1000 rounds
+0.4
+
+seed
+ 1410809348
+win rate after 1000 rounds
+0.4873096446700508
+
+seed
+ 1745450705
+win rate after 1000 rounds
+0.6472564389697648
+
+seed
+ 193787212
+win rate after 1000 rounds
+0.5742887249736565
+
+seed
+ 1721632681
+win rate after 1000 rounds
+0.6527632950990615
+
+seed
+ 11500825
+win rate after 1000 rounds
+0.48655256723716384
+
+seed
+ 205319511
+win rate after 1000 rounds
+0.7803108808290156
+
+seed
+ 31677548
+win rate after 1000 rounds
+0.825668449197861
+
+seed
+ 1626917285
+win rate after 1000 rounds
+0.41149943630214203
+
+seed
+ 202358375
+win rate after 1000 rounds
+0.6303030303030303
+
+seed
+ 942289380
+win rate after 1000 rounds
+0.5779716466739367
+
+seed
+ 818420793
+win rate after 1000 rounds
+0.5170212765957447
+
+seed
+ 315825536
+win rate after 1000 rounds
+0.7045454545454546
+
+seed
+ 776363573
+win rate after 1000 rounds
+0.84375
+
+seed
+ 1415516358
+win rate after 1000 rounds
+0.7354443309499489
+
+seed
+ 546058683
+win rate after 1000 rounds
+0.5939933259176863
+
+seed
+ 960335932
+win rate after 1000 rounds
+0.3011305241521069
+
+seed
+ 64864375
+win rate after 1000 rounds
+0.5961945031712473
+
+seed
+ 1217691016
+win rate after 1000 rounds
+0.6186348862405201
+
+seed
+ 1433872381
+win rate after 1000 rounds
+0.7132429614181439
+
+seed
+ 861763205
+win rate after 1000 rounds
+0.8861024033437827
+
+seed
+ 507963774
+win rate after 1000 rounds
+0.7155778894472362
+
+seed
+ 60210051
+win rate after 1000 rounds
+0.6703417861080485
+
+seed
+ 615255316
+win rate after 1000 rounds
+0.3743482794577685
+
+seed
+ 462740889
+win rate after 1000 rounds
+0.5926305015353122
+
+seed
+ 1161359834
+win rate after 1000 rounds
+0.8294491525423728
+
+seed
+ 1404153701
+win rate after 1000 rounds
+0.5723140495867769
+
+seed
+ 890340900
+win rate after 1000 rounds
+0.43357363542739447
+
+seed
+ 1860231612
+win rate after 1000 rounds
+0.5190677966101694
+
+seed
+ 115009799
+win rate after 1000 rounds
+0.3852721451440768
+
+seed
+ 384265053
+win rate after 1000 rounds
+0.6269430051813472
+
+seed
+ 212004976
+win rate after 1000 rounds
+0.3182751540041068
+
+seed
+ 752909328
+win rate after 1000 rounds
+0.6004618937644342
+
+seed
+ 408601445
+win rate after 1000 rounds
+0.46075085324232085
+
+seed
+ 1326268763
+win rate after 1000 rounds
+0.7021716649431231
+
+seed
+ 672658208
+win rate after 1000 rounds
+0.5280423280423281
+
+seed
+ 1135472391
+win rate after 1000 rounds
+0.683105981112277
+
+seed
+ 1747344926
+win rate after 1000 rounds
+0.37282608695652175
+
+seed
+ 203916380
+win rate after 1000 rounds
+0.3347236704900938
+
+seed
+ 538196529
+win rate after 1000 rounds
+0.6744659206510681
+
+seed
+ 1855588866
+win rate after 1000 rounds
+0.726890756302521
+
+seed
+ 1753490783
+win rate after 1000 rounds
+0.4118257261410788
+
+seed
+ 1477456182
+win rate after 1000 rounds
+0.7911255411255411
+
+seed
+ 1373010878
+win rate after 1000 rounds
+0.34049409237379163
+
+seed
+ 1593767887
+win rate after 1000 rounds
+0.4830421377183967
+
+seed
+ 772089241
+win rate after 1000 rounds
+0.5055803571428571
+
+seed
+ 346158160
+win rate after 1000 rounds
+0.40454076367389064
+
+seed
+ 171128896
+win rate after 1000 rounds
+0.42684157416750756
+
+seed
+ 1595417326
+win rate after 1000 rounds
+0.5529953917050692
+
+seed
+ 1188845357
+win rate after 1000 rounds
+0.6733615221987315
+
+seed
+ 2041358609
+win rate after 1000 rounds
+0.6993087557603687
+
+seed
+ 2026155523
+win rate after 1000 rounds
+0.2849686847599165
+
+seed
+ 536020505
+win rate after 1000 rounds
+0.6935991605456453
+
+seed
+ 680619283
+win rate after 1000 rounds
+0.2582010582010582
+
+seed
+ 1472227707
+win rate after 1000 rounds
+0.6701461377870563
+
+seed
+ 515107179
+win rate after 1000 rounds
+0.8371848739495799
+
+seed
+ 1459737881
+win rate after 1000 rounds
+0.37527593818984545
+
+seed
+ 813909940
+win rate after 1000 rounds
+0.22094240837696336
+
+seed
+ 1944135876
+win rate after 1000 rounds
+0.4089422028353326
+
+seed
+ 1114053937
+win rate after 1000 rounds
+0.5748194014447885
+
+seed
+ 1077287202
+win rate after 1000 rounds
+0.470648815653965
+
+seed
+ 1191888500
+win rate after 1000 rounds
+0.6359026369168357
+
+seed
+ 1447373208
+win rate after 1000 rounds
+0.6323060573857598
+
+seed
+ 959101852
+win rate after 1000 rounds
+0.3921161825726141
+
+seed
+ 1001833081
+win rate after 1000 rounds
+0.8240252897787145
+
+seed
+ 959440093
+win rate after 1000 rounds
+0.6737804878048781
+
+seed
+ 846859223
+win rate after 1000 rounds
+0.6289954337899544
+
+seed
+ 1699060167
+win rate after 1000 rounds
+0.44616977225672877
+
+seed
+ 1994112179
+win rate after 1000 rounds
+0.6072234762979684
+
+seed
+ 1581979746
+win rate after 1000 rounds
+0.731006160164271
+
+seed
+ 498221739
+win rate after 1000 rounds
+0.38738738738738737
+
+seed
+ 1746700866
+win rate after 1000 rounds
+0.6632860040567952
+
+seed
+ 1148348949
+win rate after 1000 rounds
+0.46540880503144655
+
+seed
+ 1944746724
+win rate after 1000 rounds
+0.5226293103448276
+
+seed
+ 2020474723
+win rate after 1000 rounds
+0.27429805615550756
+
+seed
+ 2111524116
+win rate after 1000 rounds
+0.3887113951011715
+
+seed
+ 279107820
+win rate after 1000 rounds
+0.8799171842650103
+
+seed
+ 710161384
+win rate after 1000 rounds
+0.7121848739495799
+
+seed
+ 1929864401
+win rate after 1000 rounds
+0.8447395301327886
+
+seed
+ 2055781266
+win rate after 1000 rounds
+0.4411764705882353
+
+seed
+ 442985305
+win rate after 1000 rounds
+0.648471615720524
+
+seed
+ 1918970365
+win rate after 1000 rounds
+0.3533916849015317
+
+seed
+ 450628331
+win rate after 1000 rounds
+0.6403607666290868
+
+seed
+ 1923935839
+win rate after 1000 rounds
+0.27783669141039236
+
+seed
+ 2128512808
+win rate after 1000 rounds
+0.3319371727748691
+
+seed
+ 1430086732
+win rate after 1000 rounds
+0.672782874617737
+
+seed
+ 803363997
+win rate after 1000 rounds
+0.23547400611620795
+
+seed
+ 130621210
+win rate after 1000 rounds
+0.4361924686192469
+
+seed
+ 1732800963
+win rate after 1000 rounds
+0.6137787056367432
+
+seed
+ 279919330
+win rate after 1000 rounds
+0.5369127516778524
+
+seed
+ 1180063679
+win rate after 1000 rounds
+0.7240641711229947
+
+seed
+ 1778473405
+win rate after 1000 rounds
+0.7221074380165289
+
+seed
+ 932220107
+win rate after 1000 rounds
+0.4454732510288066
+
+seed
+ 1459401173
+win rate after 1000 rounds
+0.7974137931034483
+
+seed
+ 1284286400
+win rate after 1000 rounds
+0.5963983050847458
+
+seed
+ 1676877428
+win rate after 1000 rounds
+0.4116331096196868
+
+seed
+ 1522708520
+win rate after 1000 rounds
+0.4783526927138332
+
+seed
+ 935390980
+win rate after 1000 rounds
+0.6980306345733042
+
+seed
+ 2000669786
+win rate after 1000 rounds
+0.5766081871345029
+
+seed
+ 58190269
+win rate after 1000 rounds
+0.6274089935760171
+
+seed
+ 810795107
+win rate after 1000 rounds
+0.7687296416938111
+
+seed
+ 400046400
+win rate after 1000 rounds
+0.7678767876787679
+
+seed
+ 950130988
+win rate after 1000 rounds
+0.38958333333333334
+
+seed
+ 2089229128
+win rate after 1000 rounds
+0.5440729483282675
+
+seed
+ 1023409673
+win rate after 1000 rounds
+0.7317365269461078
+
+seed
+ 1470861836
+win rate after 1000 rounds
+0.8650306748466258
+
+seed
+ 438763065
+win rate after 1000 rounds
+0.2819429778247096
+
+seed
+ 1988612120
+win rate after 1000 rounds
+0.6341201716738197
+
+seed
+ 1897208293
+win rate after 1000 rounds
+0.8078108941418294
+
+seed
+ 1835420076
+win rate after 1000 rounds
+0.7018299246501615
+
+seed
+ 1706583566
+win rate after 1000 rounds
+0.5760755508919203
+
+seed
+ 1727532889
+win rate after 1000 rounds
+0.42723492723492723
+
+seed
+ 515523626
+win rate after 1000 rounds
+0.4151547491995731
+
+seed
+ 688314156
+win rate after 1000 rounds
+0.6778900112233446
+
+seed
+ 553630779
+win rate after 1000 rounds
+0.5701125895598772
+
+seed
+ 1677466396
+win rate after 1000 rounds
+0.6141124586549063
+
+seed
+ 985044796
+win rate after 1000 rounds
+0.5811088295687885
+
+seed
+ 121589205
+win rate after 1000 rounds
+0.3060538116591928
+
+seed
+ 1911441179
+win rate after 1000 rounds
+0.6376518218623481
+
+seed
+ 601376923
+win rate after 1000 rounds
+0.29592959295929594
+
+seed
+ 1791899353
+win rate after 1000 rounds
+0.4535752401280683
+
+seed
+ 2028653498
+win rate after 1000 rounds
+0.8101802757158006
+
+seed
+ 275334838
+win rate after 1000 rounds
+0.6417004048582996
+
+seed
+ 673391967
+win rate after 1000 rounds
+0.4921956295525494
+
+seed
+ 488149662
+win rate after 1000 rounds
+0.6351351351351351
+
+seed
+ 1817167985
+win rate after 1000 rounds
+0.4935064935064935
+
+seed
+ 391116427
+win rate after 1000 rounds
+0.39704329461457233
+
+seed
+ 1257915599
+win rate after 1000 rounds
+0.2994535519125683
+
+seed
+ 2029302274
+win rate after 1000 rounds
+0.5975733063700708
+
+seed
+ 162511503
+win rate after 1000 rounds
+0.77502691065662
+
+seed
+ 1114229831
+win rate after 1000 rounds
+0.5269662921348315
+
+seed
+ 143138547
+win rate after 1000 rounds
+0.6467722289890377
+
+seed
+ 1930772349
+win rate after 1000 rounds
+0.501577287066246
+
+seed
+ 1472491038
+win rate after 1000 rounds
+0.35
+
+seed
+ 683511584
+win rate after 1000 rounds
+0.2644628099173554
+
+seed
+ 1002261335
+win rate after 1000 rounds
+0.42414529914529914
+
+seed
+ 218581234
+win rate after 1000 rounds
+0.38244197780020184
+
+seed
+ 2070133089
+win rate after 1000 rounds
+0.7339955849889624
+
+seed
+ 2143896863
+win rate after 1000 rounds
+0.668041237113402
+
+seed
+ 1506974022
+win rate after 1000 rounds
+0.6889375684556407
+
+seed
+ 2087606970
+win rate after 1000 rounds
+0.4979508196721312
+
+seed
+ 1092387427
+win rate after 1000 rounds
+0.5705950991831972
+
+seed
+ 1847383016
+win rate after 1000 rounds
+0.4228187919463087
+
+seed
+ 942972405
+win rate after 1000 rounds
+0.3522727272727273
+
+seed
+ 103572338
+win rate after 1000 rounds
+0.7657841140529531
+
+seed
+ 564182318
+win rate after 1000 rounds
+0.7871033776867963
+
+seed
+ 93354037
+win rate after 1000 rounds
+0.46122448979591835
+
+seed
+ 1873720770
+win rate after 1000 rounds
+0.38652849740932643
+
+seed
+ 2039725227
+win rate after 1000 rounds
+0.5446623093681917
+
+seed
+ 823590480
+win rate after 1000 rounds
+0.8052083333333333
+
+seed
+ 2012428358
+win rate after 1000 rounds
+0.8008519701810437
+
+seed
+ 438982140
+win rate after 1000 rounds
+0.4095449500554939
+
+seed
+ 1269144713
+win rate after 1000 rounds
+0.6273684210526316
+
+seed
+ 1822003240
+win rate after 1000 rounds
+0.2427807486631016
+
+seed
+ 134931502
+win rate after 1000 rounds
+0.39222222222222225
+
+seed
+ 681256807
+win rate after 1000 rounds
+0.47844827586206895
+
+seed
+ 1860907887
+win rate after 1000 rounds
+0.36363636363636365
+
+seed
+ 988753832
+win rate after 1000 rounds
+0.3582554517133956
+
+seed
+ 940012925
+win rate after 1000 rounds
+0.3460698689956332
+
+seed
+ 656795012
+win rate after 1000 rounds
+0.3395810363836825
+
+seed
+ 1433789598
+win rate after 1000 rounds
+0.6588888888888889
+
+seed
+ 620447747
+win rate after 1000 rounds
+0.5936473165388828
+
+seed
+ 284581493
+win rate after 1000 rounds
+0.34355179704016914
+
+seed
+ 1999432645
+win rate after 1000 rounds
+0.6212664277180406
+
+seed
+ 1788045272
+win rate after 1000 rounds
+0.5907660020986358
+
+seed
+ 521597877
+win rate after 1000 rounds
+0.7178423236514523
+
+seed
+ 429746674
+win rate after 1000 rounds
+0.5982996811902231
+
+seed
+ 1822004963
+win rate after 1000 rounds
+0.3988372093023256
+
+seed
+ 1466610584
+win rate after 1000 rounds
+0.46909492273730685
+
+seed
+ 978726162
+win rate after 1000 rounds
+0.3606382978723404
+
+seed
+ 1568820470
+win rate after 1000 rounds
+0.5025484199796126
+
+seed
+ 15159840
+win rate after 1000 rounds
+0.5771670190274841
+
+seed
+ 424306366
+win rate after 1000 rounds
+0.4574688796680498
+
+seed
+ 695734121
+win rate after 1000 rounds
+0.4289044289044289
+
+seed
+ 2143755928
+win rate after 1000 rounds
+0.6494623655913978
+
+seed
+ 1817993574
+win rate after 1000 rounds
+0.4882075471698113
+
+seed
+ 1223037324
+win rate after 1000 rounds
+0.7102510460251046
+
+seed
+ 755980201
+win rate after 1000 rounds
+0.6727066817667045
+
+seed
+ 911224384
+win rate after 1000 rounds
+0.47093023255813954
+
+seed
+ 1739802305
+win rate after 1000 rounds
+0.5067079463364293
+
+seed
+ 611642196
+win rate after 1000 rounds
+0.7486687965921193
+
+seed
+ 1356126512
+win rate after 1000 rounds
+0.7205882352941176
+
+seed
+ 246468230
+win rate after 1000 rounds
+0.4959183673469388
+
+seed
+ 255677230
+win rate after 1000 rounds
+0.5092091007583965
+
+seed
+ 119753215
+win rate after 1000 rounds
+0.6609442060085837
+
+seed
+ 1788569540
+win rate after 1000 rounds
+0.46794150731158607
+
+seed
+ 1342844360
+win rate after 1000 rounds
+0.6382322713257965
+
+seed
+ 627623424
+win rate after 1000 rounds
+0.7839029768467475
+
+seed
+ 347481076
+win rate after 1000 rounds
+0.762987012987013
+
+seed
+ 1995931979
+win rate after 1000 rounds
+0.5950920245398773
+
+seed
+ 2060295919
+win rate after 1000 rounds
+0.6414435389988359
+
+seed
+ 2040559994
+win rate after 1000 rounds
+0.624332977588047
+avg:  0.5613756198050717
